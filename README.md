@@ -1,9 +1,9 @@
 <div align="center">
     <a href="https://editorjs.io/">
       <h3>✏️</h3>
-        <h1>Post A Week</h1>
+        <h1>study-log</h1>
     </a>
-  매주 1 개 이상 블로그 포스트 작성하기
+  공부한 것을 기록합니다.
 </div>
 
 ## 바로가기
