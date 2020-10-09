@@ -43,7 +43,7 @@
 - [X] 태희
 - [X] [하연](https://hayeon17kim.github.io/do-it/doit01)
 - [X] 민섭
-- [X] 희진
+- [X] [희진](https://eungeun506.tistory.com/47?category=891959)
 
 </details>
 
@@ -106,7 +106,7 @@
 
 - [X] 태희
 - [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure01)
-- [X] 희진
+- [X] [희진](https://eungeun506.tistory.com/26?category=890123)
 
 </details>
 
@@ -117,7 +117,7 @@
 
 - [X] 태희
 - [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure02)
-- [X] 희진
+- [X] [희진](https://eungeun506.tistory.com/29?category=890123)
 
 </details>
 
@@ -128,7 +128,7 @@
 
 - [ ] 태희
 - [ ] 하연
-- [ ] 희진
+- [ ] [희진](https://eungeun506.tistory.com/55?category=890123)
 
 </details>
 
@@ -189,7 +189,7 @@
 1~4강
 
 - [X] 하연: [1강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics01), [2강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics02), [3강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics03), [4강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics01) 
-- [X] 희진
+- [X] 희진 : [1,2강](https://eungeun506.tistory.com/65?category=897674), [3,4강](https://eungeun506.tistory.com/66?category=897674)
 
 </details>
 
@@ -198,7 +198,7 @@
 5~8강
 
 - [X] 하연: [5강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics05), [6강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics06), [7강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics07), [8강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics08)
-- [X] 희진
+- [X] 희진: [5,6강](https://eungeun506.tistory.com/71?category=897674), [7강](https://eungeun506.tistory.com/73?category=897674), [8강](https://eungeun506.tistory.com/76?category=897674)
 
 </details>
 
@@ -226,11 +226,11 @@
 
 |      | 하연                                                         | 희진 |
 | ---- | ------------------------------------------------------------ | ---- |
-| 월   | [Dev-Interview 네트워크](https://dev-interview.com/)         |      |
-| 화   | [팀에 새로운 도구를 도입하고 싶다](https://so-so.dev/essay/add-new-tool-at-team/) |      |
-| 수   | [TypeScript enum을 사용하지 않는 게 좋은 이유를 Tree-shaking 관점에서 소개합니다.](https://engineering.linecorp.com/ko/blog/typescript-enum-tree-shaking/) |      |
-| 목   | [자바스크립트 나만의 HTML 태그 만들기](https://www.youtube.com/watch?v=2DX11isXAD0) |      |
-| 금   | 휴식권 사용                                                  |      |
+| 월   | [Dev-Interview 네트워크](https://dev-interview.com/)         |  [Java8 날짜 / 시간 관련 API](https://velog.io/@lsb156/Instant-vs-LocalDateTime)    |
+| 화   | [팀에 새로운 도구를 도입하고 싶다](https://so-so.dev/essay/add-new-tool-at-team/) | [GitHub Pull Request Builder](https://taetaetae.github.io/2020/09/07/github-pullrequest-build/)      |
+| 수   | [TypeScript enum을 사용하지 않는 게 좋은 이유를 Tree-shaking 관점에서 소개합니다.](https://engineering.linecorp.com/ko/blog/typescript-enum-tree-shaking/) | [마켓 컬리 신규 서비스 배포전 성능 테스트 과정](https://helloworld.kurly.com/blog/vsms-performance-experiment/)     |
+| 목   | [자바스크립트 나만의 HTML 태그 만들기](https://www.youtube.com/watch?v=2DX11isXAD0) | [카카오 FE 플랫폼팀의 일정 공유](https://tech.kakao.com/2020/09/08/planning-poker/)     |
+| 금   | 휴식권 사용                                                  | [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)     |
 
 </details>
 
@@ -240,11 +240,11 @@
 
 |      | 하연                                                         | 희진 |
 | ---- | ------------------------------------------------------------ | ---- |
-| 월   | [Java의 날짜와 시간 API](https://d2.naver.com/helloworld/645609) |      |
-| 화   | [하루 25분 실행하기: 하루를 대하는 14년 개발자의 자세](https://blog.shiren.dev/2020-09-07/) |      |
-| 수   | [HTTP 메시지](https://developer.mozilla.org/ko/docs/Web/HTTP/Messages) |      |
-| 목   | [HTTP 압축](https://developer.mozilla.org/ko/docs/Web/HTTP/Compression) |      |
-| 금   | [크롬 확장 프로그램 개발 회고](https://github.com/Hee-jin506/IT_Info/blob/main/hayeon/13-2020-09-25-chrome-extension.md) |      |
+| 월   | [Java의 날짜와 시간 API](https://d2.naver.com/helloworld/645609) | [스케줄링 알고리즘](https://dduddublog.tistory.com/23#:~:text=%EB%A8%BC%EC%A0%80%20%EB%8F%84%EC%B0%A9%ED%95%9C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC%20%EB%A8%BC%EC%A0%80,%EB%95%8C%20%EA%B9%8C%EC%A7%80%20%EB%8C%80%EA%B8%B0%ED%95%B4%EC%95%BC%20%ED%95%9C%EB%8B%A4)[동기/비동기](https://webclub.tistory.com/605)   |
+| 화   | [하루 25분 실행하기: 하루를 대하는 14년 개발자의 자세](https://blog.shiren.dev/2020-09-07/) | [안드로이드 Retrofit](https://woovictory.github.io/2019/01/03/Android-What-is-retrofit/index.html)    |
+| 수   | [HTTP 메시지](https://developer.mozilla.org/ko/docs/Web/HTTP/Messages) | [요구 페이징](hhttps://goodmilktea.tistory.com/36)     |
+| 목   | [HTTP 압축](https://developer.mozilla.org/ko/docs/Web/HTTP/Compression) | [뱅크샐러드는 어떻게 레거시 서비스를 박살 내는가](https://blog.banksalad.com/tech/how-banksalald-decomposes-legacy-services/)  |
+| 금   | [크롬 확장 프로그램 개발 회고](https://github.com/Hee-jin506/IT_Info/blob/main/hayeon/13-2020-09-25-chrome-extension.md) | [Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?](http://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html)     |
 
 </details>
 
@@ -254,11 +254,11 @@
 
 |      | 하연                                                         | 희진 |
 | ---- | ------------------------------------------------------------ | ---- |
-| 월   | [Liquid 언어 기본문법](http://shopify.github.io/liquid/)     |      |
-| 화   | [modernJS 기본 연산자와 수학](https://github.com/Hee-jin506/IT_Info/blob/main/hayeon/15-2020-09-29-modernjs.md) |      |
-| 수   | [modernJS: if와 ?를 사용한 조건처리](https://ko.javascript.info/ifelse) |      |
-| 목   | [HTTP 조건부 요청](https://developer.mozilla.org/en-US/docs/Web/HTTP/Conditional_requests) |      |
-| 금   | [논리연산자](https://ko.javascript.info/logical-operators)   |      |
+| 월   | [Liquid 언어 기본문법](http://shopify.github.io/liquid/)     | [A Picture of Java 2020](https://blog.jetbrains.com/idea/2020/09/a-picture-of-java-in-2020/) |
+| 화   | [modernJS 기본 연산자와 수학](https://github.com/Hee-jin506/IT_Info/blob/main/hayeon/15-2020-09-29-modernjs.md) | 휴식권 사용     |
+| 수   | [modernJS: if와 ?를 사용한 조건처리](https://ko.javascript.info/ifelse) | [IT 종사자라면 이 정도는 알자 시리즈 1탄. 클라우드 기술과 서비스(SaaS, PaaS, IaaS)](https://www.grabbing.me/IT-1-SaaS-PaaS-IaaS-79cd7661e3fe43e099b7d623777fd7f8)     |
+| 목   | [HTTP 조건부 요청](https://developer.mozilla.org/en-US/docs/Web/HTTP/Conditional_requests) | [Java 유료 논쟁, Oracle JDK와 OpenJDK의 차이 정리](https://jsonobject.tistory.com/395)     |
+| 금   | [논리연산자](https://ko.javascript.info/logical-operators)   | [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT 기업 도전기 - 참석 후기](https://jsonobject.tistory.com/395)     |
 
 </details>
 
@@ -268,10 +268,10 @@
 
 |      | 하연                                                         | 희진 |
 | ---- | ------------------------------------------------------------ | ---- |
-| 월   | [HTTP 컨텐츠 협상](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent) |      |
-| 화   | [why are static variables considered eveil](https://ask.xiaolee.net/questions/1009435) |      |
-| 수   | [modernJS: 함수](https://ko.javascript.info/function-basics) |      |
-| 목   | [modernJS: 함수표현식](https://ko.javascript.info/function-expressions) |      |
+| 월   | [HTTP 컨텐츠 협상](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent) | [HTTP 개요](https://developer.mozilla.org/ko/docs/Glossary/Protocol)     |
+| 화   | [why are static variables considered eveil](https://ask.xiaolee.net/questions/1009435) |[자바 스레드 Thread 문제점](https://codingcoding.tistory.com/511)      |
+| 수   | [modernJS: 함수](https://ko.javascript.info/function-basics) | [주니어 개발자가 처음 풀 리퀘스트 보내본 썰.txt](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)     |
+| 목   | [modernJS: 함수표현식](https://ko.javascript.info/function-expressions) | [페이지 교체(page-replacement) 알고리즘](https://medium.com/pocs/%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%90%EC%B2%B4-page-replacement-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-650d58ae266b)     |
 | 금   |                                                              |      |
 
 </details>
