@@ -84,7 +84,7 @@
 
 1장: 네트워크 첫걸음
 
-- [ ] 태희
+- [X] [태희](https://taehee12.tistory.com/28)
 - [X] [하연](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-01)
 - [ ] 민섭
 - [X] [희진](https://eungeun506.tistory.com/81)
