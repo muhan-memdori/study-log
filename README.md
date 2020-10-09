@@ -97,7 +97,7 @@
 
 - 앨런 B. 다우니의 [Thnk Data Structures](http://www.yes24.com/Product/Goods/61198657)를 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 일요일 밤 12시까지 업데이트 해주세요.
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [민섭](https://github.com/parkminseob), [희진](https://github.com/Hee-jin506)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
 
 
 <details>
