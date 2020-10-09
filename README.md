@@ -1,13 +1,9 @@
 <div align="center">
-<<<<<<< HEAD
       <h3>✏️</h3>
-=======
-    <a href="https://editorjs.io/">
-      <h3>👩🏻‍💻</h3>
->>>>>>> d0a13536cbfa4e1f324c670e4c0a58815675158c
         <h1>study-log</h1>
   공부한 것을 기록합니다.
 </div>
+
 
 ## 멤버 소개
 
