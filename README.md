@@ -32,7 +32,7 @@
 
 
 ## 🧩 알고리즘
-- **Do it! 자료구조와 함께 배우는 알고리즘 입문**을 읽고 매주 1장씩 블로그에 정리합니다.
+- [Do it! 자료구조와 함께 배우는 알고리즘 입문](http://www.yes24.com/Product/Goods/60547893?OzSrank=3)을 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 토요일 밤 12시까지 업데이트해주세요.
 - 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [민섭](https://github.com/parkminseob), [희진](https://github.com/Hee-jin506)
 
@@ -74,7 +74,7 @@
 
 
 ## 🌐 네트워크
-- **모두의 네트워크**를 읽고 매주 1장씩 블로그에 정리합니다.
+- [모두의 네트워크](http://www.yes24.com/Product/Goods/61794014?OzSrank=1)를 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 발표 전까지 업데이트 해주세요.
 - 일요일 오전 9시에 발표를 진행합니다.
 - 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [민섭](https://github.com/parkminseob), [희진](https://github.com/Hee-jin506)
@@ -95,7 +95,7 @@
 
 ## 🗂 자료구조
 
-- 앨런 B. 다우니의 [Thnk Data Structures(핵심 자료구조와 알고리즘)](http://www.yes24.com/Product/Goods/61198657)을 읽고 매주 1장씩 블로그에 정리합니다.
+- 앨런 B. 다우니의 [Thnk Data Structures](http://www.yes24.com/Product/Goods/61198657)를 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 일요일 밤 12시까지 업데이트 해주세요.
 - 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [민섭](https://github.com/parkminseob), [희진](https://github.com/Hee-jin506)
 
@@ -135,8 +135,8 @@
 
 
 ## 🔨 리팩토링
-
-- 일요일 오후 7시에 미니 프로젝트에 리팩토링 기법을 적용하는 시간을 갖습니다.
+- 마틴 파울러의 [리팩토링](http://www.yes24.com/Product/Goods/7951038?OzSrank=7)을 매주 1장 읽고 배운 리팩토링 기법을 적용합니다.
+- 일요일 오후 7시에 미니 프로젝트를 리팩토링하는 시간을 갖습니다.
 - [미니 프로젝트 바로가기](https://github.com/hayeon17kim/vocabulary-list)
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [민섭](https://github.com/parkminseob), [희진](https://github.com/Hee-jin506)
 
@@ -144,8 +144,7 @@
 
 ## ✨ 프론트엔드
 
-- **HTML5 + CSS3 웹 표준의 정석**을 읽고 매주 2장씩 블로그에 정리합니다.
-- **러닝 자바스크립트**를 읽고 매주 1장씩 블로그에 정리합니다.
+- [HTML5 + CSS3 웹 표준의 정석](http://www.yes24.com/Product/Goods/85112155?OzSrank=1)을 읽고 매주 2장씩 블로그에 정리합니다.
 - 블로그 링크는 일요일 밤 12시까지 업데이트해주세요.
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [민섭](https://github.com/parkminseob), [희진](https://github.com/Hee-jin506)
 
@@ -164,7 +163,7 @@
 
 ## 😎 자바스크립트
 
-- **러닝 자바스크립트**를 읽고 매주 2장씩 블로그에 정리합니다.
+- 이선 브라운의 [러닝 자바스크립트](http://www.yes24.com/Product/Goods/42806896?OzSrank=5)를 읽고 매주 정해진 분량 만큼 블로그에 정리합니다.
 - 블로그 링크는 일요일 밤 12시까지 업데이트해주세요.
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
 
@@ -180,7 +179,7 @@
 
 
 ## 🎲 이산수학
-- 신흥철 교수님의 이산수학 강의를 듣고 매주 4강씩 블로그에 정리합니다.
+- [신흥철 교수님의 이산수학 강의](http://www.uniwise.co.kr/lecture/movieLectureDetail.html?subNo=3&searchSubjectCode=1124&searchLeccode=D201500330)를 듣고 매주 4강씩 블로그에 정리합니다.
 - 블로그 링크는 토요일 밤 12시, 일요일 밤 12시로 나누어 업데이트해주세요.
 - 일요일 오후 6시에 발표를 진행합니다. 
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
