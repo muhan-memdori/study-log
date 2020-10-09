@@ -85,7 +85,7 @@
 1장: 네트워크 첫걸음
 
 - [ ] 태희
-- [ ] 하연
+- [X] [하연](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-01)
 - [ ] 민섭
 - [X] [희진](https://eungeun506.tistory.com/81)
 
@@ -171,7 +171,7 @@
 <summary>1회차</summary>
 1장, 2장
 
-- [ ] 하연
+- [ ] 하연: [1장](https://hayeon17kim.github.io/learning-js/learning-js-01)
 - [ ] 희진
 
 </details>
