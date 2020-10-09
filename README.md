@@ -40,7 +40,7 @@
 <summary>1회차</summary>
 1장: 기본 알고리즘
 
-- [X] 태희
+- [X] [태희](https://taehee12.tistory.com/19)
 - [X] [하연](https://hayeon17kim.github.io/do-it/doit01)
 - [X] 민섭
 - [X] [희진](https://eungeun506.tistory.com/47?category=891959)
@@ -51,7 +51,7 @@
 <summary>2회차</summary>
 2장: 기본 자료구조
 
-- [X] 태희
+- [X] [태희](https://taehee12.tistory.com/22), [배열 2](https://taehee12.tistory.com/23)
 - [X] [하연](https://hayeon17kim.github.io/do-it/doit02)
 - [X] 민섭
 - [X] 희진
@@ -104,7 +104,7 @@
 <summary>1회차</summary>
 1장: 인터페이스
 
-- [X] 태희
+- [X] [태희](https://taehee12.tistory.com/20) 
 - [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure01)
 - [X] [희진](https://eungeun506.tistory.com/26?category=890123)
 
@@ -115,7 +115,7 @@
 
 2장: 알고리즘 분석
 
-- [X] 태희
+- [X] [태희](https://taehee12.tistory.com/21), [알고리즘 분석1](https://taehee12.tistory.com/24), [알고리즘 분석2](https://taehee12.tistory.com/25)
 - [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure02)
 - [X] [희진](https://eungeun506.tistory.com/29?category=890123)
 
