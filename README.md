@@ -87,7 +87,7 @@
 - [ ] 태희
 - [ ] 하연
 - [ ] 민섭
-- [ ] 희진
+- [X] [희진](https://eungeun506.tistory.com/81)
 
 </details>
 
