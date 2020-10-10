@@ -64,7 +64,7 @@
 3장: 검색
 
 - [ ] 태희
-- [ ] 하연
+- [X] [하연](https://hayeon17kim.github.io/do-it/doit03)
 - [ ] 민섭
 - [ ] 희진
 
@@ -206,7 +206,7 @@
 <summary>3회차</summary>
 9~13강
 
-- [ ] 하연
+- [ ] 하연 [9, 10강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics0910)
 - [ ] 희진
 
 </details>
