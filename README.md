@@ -42,7 +42,7 @@
 
 - [X] [태희](https://taehee12.tistory.com/19)
 - [X] [하연](https://hayeon17kim.github.io/do-it/doit01)
-- [X] 민섭
+- [X] [민섭](https://parkminseob.github.io/algorithm/Doit-04/)
 - [X] [희진](https://eungeun506.tistory.com/47?category=891959)
 
 </details>
@@ -53,7 +53,7 @@
 
 - [X] [태희](https://taehee12.tistory.com/22), [배열 2](https://taehee12.tistory.com/23)
 - [X] [하연](https://hayeon17kim.github.io/do-it/doit02)
-- [X] 민섭
+- [X] [민섭](https://parkminseob.github.io/algorithm/Doit-05/)
 - [X] 희진
 
 </details>
@@ -86,7 +86,7 @@
 
 - [X] [태희](https://taehee12.tistory.com/28)
 - [X] [하연](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-01)
-- [ ] 민섭
+- [X] [민섭](https://parkminseob.github.io/network/Networkchap04-2/)
 - [X] [희진](https://eungeun506.tistory.com/81)
 
 </details>
@@ -292,7 +292,7 @@
 | ---- | -------- |
 | 태희 | 1,000원  |
 | 하연 | 14,000원 |
-| 민섭 |          |
+| 민섭 | 2,000원  |
 | 희진 | 8,000원  |
 
 
