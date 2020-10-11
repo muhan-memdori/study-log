@@ -127,7 +127,7 @@
 3장: ArrayList 클래스
 
 - [ ] 태희
-- [ ] 하연
+- [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure03)
 - [ ] [희진](https://eungeun506.tistory.com/55?category=890123)
 
 </details>
@@ -171,7 +171,7 @@
 <summary>1회차</summary>
 1장, 2장
 
-- [ ] 하연: [1장](https://hayeon17kim.github.io/learning-js/learning-js-01)
+- [X] 하연: [1장](https://hayeon17kim.github.io/learning-js/learning-js-01), [2장](https://hayeon17kim.github.io/learning-js/learning-js-02)
 - [ ] 희진
 
 </details>
