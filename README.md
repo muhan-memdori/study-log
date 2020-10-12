@@ -54,7 +54,7 @@
 - [X] [태희](https://taehee12.tistory.com/22), [배열 2](https://taehee12.tistory.com/23)
 - [X] [하연](https://hayeon17kim.github.io/do-it/doit02)
 - [X] [민섭](https://parkminseob.github.io/algorithm/Doit-05/)
-- [X] 희진
+- [] [희진]
 
 </details>
 
