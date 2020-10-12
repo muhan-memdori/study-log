@@ -63,10 +63,22 @@
 
 3장: 검색
 
-- [ ] 태희
+- [X] [태희](https://github.com/TaeheeKim15/algorism/tree/master/src/main/java/com/kimst/doit/ex03)
 - [X] [하연](https://hayeon17kim.github.io/do-it/doit03)
 - [ ] 민섭
 - [X] [희진](https://eungeun506.tistory.com/83)
+
+</details>
+
+<details>
+<summary>4회차</summary>
+
+4장: 스택과 큐
+
+- [ ] 태희
+- [ ] 하연
+- [ ] 민섭
+- [ ] 희진
 
 </details>
 
@@ -88,6 +100,17 @@
 - [X] [하연](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-01)
 - [X] [민섭](https://parkminseob.github.io/network/Networkchap04-2/)
 - [X] [희진](https://eungeun506.tistory.com/81)
+
+</details>
+
+<details>
+<summary>2회차</summary>
+2장: 네트워크의 기본 규칙
+
+- [ ] 태희
+- [ ] 하연
+- [ ] 민섭
+- [ ] 희진
 
 </details>
 
