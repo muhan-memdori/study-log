@@ -66,7 +66,7 @@
 - [ ] 태희
 - [X] [하연](https://hayeon17kim.github.io/do-it/doit03)
 - [ ] 민섭
-- [ ] 희진
+- [X] [희진](https://eungeun506.tistory.com/83)
 
 </details>
 
@@ -128,7 +128,7 @@
 
 - [ ] 태희
 - [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure03)
-- [ ] [희진](https://eungeun506.tistory.com/55?category=890123)
+- [X] [희진](https://eungeun506.tistory.com/55?category=890123)
 
 </details>
 
@@ -207,7 +207,7 @@
 9~13강
 
 - [ ] 하연 [9, 10강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics0910)
-- [ ] 희진
+- [ ] 희진 [9, 10강](https://eungeun506.tistory.com/82)
 
 </details>
 
@@ -272,7 +272,7 @@
 | 화   | [why are static variables considered eveil](https://ask.xiaolee.net/questions/1009435) |[자바 스레드 Thread 문제점](https://codingcoding.tistory.com/511)      |
 | 수   | [modernJS: 함수](https://ko.javascript.info/function-basics) | [주니어 개발자가 처음 풀 리퀘스트 보내본 썰.txt](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)     |
 | 목   | [modernJS: 함수표현식](https://ko.javascript.info/function-expressions) | [페이지 교체(page-replacement) 알고리즘](https://medium.com/pocs/%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%90%EC%B2%B4-page-replacement-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-650d58ae266b)     |
-| 금   |  [modernJS: 화살표함수](https://ko.javascript.info/arrow-functions)  |      |
+| 금   |  [modernJS: 화살표함수](https://ko.javascript.info/arrow-functions)  | [HTTP의 기초적인 측면/HTTP로 제어할 수 있는 것](https://developer.mozilla.org/ko/docs/Glossary/Protocol)     |
 
 </details>
 
@@ -293,7 +293,7 @@
 | 태희 | 1,000원  |
 | 하연 | 15,000원 |
 | 민섭 | 2,000원  |
-| 희진 | 8,000원  |
+| 희진 | 11,000원  |
 
 
 
