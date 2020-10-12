@@ -60,7 +60,6 @@
 
 <details>
 <summary>3회차</summary>
-
 3장: 검색
 
 - [X] [태희](https://github.com/TaeheeKim15/algorism/tree/master/src/main/java/com/kimst/doit/ex03)
@@ -72,7 +71,6 @@
 
 <details>
 <summary>4회차</summary>
-
 4장: 스택과 큐
 
 - [ ] 태희
@@ -93,7 +91,6 @@
 
 <details>
 <summary>1회차</summary>
-
 1장: 네트워크 첫걸음
 
 - [X] [태희](https://taehee12.tistory.com/28)
