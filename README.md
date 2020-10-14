@@ -104,7 +104,7 @@
 <summary>2회차</summary>
 2장: 네트워크의 기본 규칙
 
-- [ ] 태희
+- [X] [태희](https://taehee12.tistory.com/30)
 - [ ] 하연
 - [ ] 민섭
 - [ ] 희진
