@@ -34,7 +34,7 @@
 ## 🧩 알고리즘
 - [Do it! 자료구조와 함께 배우는 알고리즘 입문](http://www.yes24.com/Product/Goods/60547893?OzSrank=3)을 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 토요일 밤 12시까지 업데이트해주세요.
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [민섭](https://github.com/parkminseob), [희진](https://github.com/Hee-jin506)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [민섭](https://github.com/parkminseob), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram)
 
 <details>
 <summary>1회차</summary>
@@ -44,6 +44,7 @@
 - [X] [하연](https://hayeon17kim.github.io/do-it/doit01)
 - [X] [민섭](https://parkminseob.github.io/algorithm/Doit-04/)
 - [X] [희진](https://eungeun506.tistory.com/47?category=891959)
+- [ ] 아람
 
 </details>
 
@@ -55,6 +56,7 @@
 - [X] [하연](https://hayeon17kim.github.io/do-it/doit02)
 - [X] [민섭](https://parkminseob.github.io/algorithm/Doit-05/)
 - [] [희진]
+- [ ] 아람
 
 </details>
 
@@ -66,6 +68,7 @@
 - [X] [하연](https://hayeon17kim.github.io/do-it/doit03)
 - [ ] 민섭
 - [X] [희진](https://eungeun506.tistory.com/83)
+- [ ] 아람
 
 </details>
 
@@ -77,6 +80,7 @@
 - [ ] 하연
 - [ ] 민섭
 - [ ] 희진
+- [ ] 아람
 
 </details>
 
@@ -117,7 +121,7 @@
 
 - 앨런 B. 다우니의 [Thnk Data Structures](http://www.yes24.com/Product/Goods/61198657)를 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 일요일 밤 12시까지 업데이트 해주세요.
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram)
 
 
 <details>
@@ -127,6 +131,7 @@
 - [X] [태희](https://taehee12.tistory.com/20) 
 - [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure01)
 - [X] [희진](https://eungeun506.tistory.com/26?category=890123)
+- [ ] 아람
 
 </details>
 
@@ -138,6 +143,7 @@
 - [X] [태희](https://taehee12.tistory.com/21), [알고리즘 분석1](https://taehee12.tistory.com/24), [알고리즘 분석2](https://taehee12.tistory.com/25)
 - [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure02)
 - [X] [희진](https://eungeun506.tistory.com/29?category=890123)
+- [ ] 아람
 
 </details>
 
@@ -149,6 +155,7 @@
 - [ ] 태희
 - [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure03)
 - [X] [희진](https://eungeun506.tistory.com/55?category=890123)
+- [ ] 아람
 
 </details>
 
@@ -166,16 +173,30 @@
 
 - [HTML5 + CSS3 웹 표준의 정석](http://www.yes24.com/Product/Goods/85112155?OzSrank=1)을 읽고 매주 2장씩 블로그에 정리합니다.
 - 블로그 링크는 일요일 밤 12시까지 업데이트해주세요.
-- 참여 멤버: [하연](https://github.com/hayeon17kim), [민섭](https://github.com/parkminseob), [희진](https://github.com/Hee-jin506)
+- 참여 멤버: [하연](https://github.com/hayeon17kim), [민섭](https://github.com/parkminseob), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [태희](https://github.com/TaeheeKim15)
 
+      
 <details>
 <summary>1회차</summary>
 1장: HTML 기본 다지기
+
+- [ ] 태희
+- [ ] 하연
+- [ ] 민섭
+- [ ] 희진
+- [ ] 아람
+
+</details>
+      
+<details>
+<summary>1회차</summary>   
 2장: 텍스트 관련 태그들
 
 - [ ] 하연
 - [ ] 민섭
 - [ ] 희진
+- [ ] 태희
+- [ ] 아람
 
 </details>
 
@@ -315,6 +336,7 @@
 - 하연: [깃허브](https://github.com/hayeon17kim), [블로그](https://hayeon17kim.github.io/)
 - 민섭: [깃허브](https://github.com/parkminseob), [블로그](https://parkminseob.github.io/)
 - 희진: [깃허브](https://github.com/Hee-jin506), [블로그](https://eungeun506.tistory.com/)
+- 아람: [깃허브](https://github.com/YuAram)
 
 
 
@@ -325,6 +347,7 @@
 | 하연 | 15,000원 |
 | 민섭 | 2,000원  |
 | 희진 | 11,000원  |
+| 아람 | 0 원  |
 
 
 
