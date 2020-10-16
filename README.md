@@ -57,7 +57,7 @@
 - [X] [태희](https://taehee12.tistory.com/22), [배열 2](https://taehee12.tistory.com/23)
 - [X] [하연](https://hayeon17kim.github.io/do-it/doit02)
 - [X] [민섭](https://parkminseob.github.io/algorithm/Doit-05/)
-- [] [희진]
+- [ ] [희진]
 - [ ] 아람
 
 </details>
@@ -131,7 +131,7 @@
 
 - 앨런 B. 다우니의 [Think Data Structures](http://www.yes24.com/Product/Goods/61198657)를 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 일요일 밤 12시까지 업데이트 해주세요.
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
 
 
 <details>
@@ -142,7 +142,6 @@
 - [X] [태희](https://taehee12.tistory.com/20) 
 - [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure01)
 - [X] [희진](https://eungeun506.tistory.com/26?category=890123)
-- [ ] 아람
 
 </details>
 
@@ -154,7 +153,6 @@
 - [X] [태희](https://taehee12.tistory.com/21), [알고리즘 분석1](https://taehee12.tistory.com/24), [알고리즘 분석2](https://taehee12.tistory.com/25)
 - [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure02)
 - [X] [희진](https://eungeun506.tistory.com/29?category=890123)
-- [ ] 아람
 
 </details>
 
@@ -166,7 +164,6 @@
 - [ ] 태희
 - [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure03)
 - [X] [희진](https://eungeun506.tistory.com/55?category=890123)
-- [ ] 아람
 
 </details>
 
@@ -209,7 +206,7 @@
 - [ ] 민섭
 - [ ] 희진
 - [ ] 태희
-- [ ] 아람2
+- [ ] 아람
 
 </details>
 
