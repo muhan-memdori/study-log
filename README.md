@@ -38,6 +38,7 @@
 
 <details>
 <summary>1회차</summary>
+      
 1장: 기본 알고리즘
 
 - [X] [태희](https://taehee12.tistory.com/19)
@@ -50,6 +51,7 @@
 
 <details>
 <summary>2회차</summary>
+      
 2장: 기본 자료구조
 
 - [X] [태희](https://taehee12.tistory.com/22), [배열 2](https://taehee12.tistory.com/23)
@@ -62,6 +64,7 @@
 
 <details>
 <summary>3회차</summary>
+      
 3장: 검색
 
 - [X] [태희](https://github.com/TaeheeKim15/algorism/tree/master/src/main/java/com/kimst/doit/ex03)
@@ -74,6 +77,7 @@
 
 <details>
 <summary>4회차</summary>
+      
 4장: 스택과 큐
 
 - [ ] 태희
@@ -95,6 +99,7 @@
 
 <details>
 <summary>1회차</summary>
+      
 1장: 네트워크 첫걸음
 
 - [X] [태희](https://taehee12.tistory.com/28)
@@ -106,6 +111,7 @@
 
 <details>
 <summary>2회차</summary>
+      
 2장: 네트워크의 기본 규칙
 
 - [X] [태희](https://taehee12.tistory.com/30)
@@ -126,6 +132,7 @@
 
 <details>
 <summary>1회차</summary>
+      
 1장: 인터페이스
 
 - [X] [태희](https://taehee12.tistory.com/20) 
@@ -178,6 +185,7 @@
       
 <details>
 <summary>1회차</summary>
+      
 1장: HTML 기본 다지기
 
 - [ ] 태희
@@ -189,14 +197,15 @@
 </details>
       
 <details>
-<summary>1회차</summary>   
+<summary>2회차</summary> 
+      
 2장: 텍스트 관련 태그들
 
 - [ ] 하연
 - [ ] 민섭
 - [ ] 희진
 - [ ] 태희
-- [ ] 아람
+- [ ] 아람2
 
 </details>
 
