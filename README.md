@@ -102,6 +102,8 @@
       
 1장: 네트워크 첫걸음
 
+- 1장 발표자 : 김태희
+
 - [X] [태희](https://taehee12.tistory.com/28)
 - [X] [하연](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-01)
 - [X] [민섭](https://parkminseob.github.io/network/Networkchap04-2/)
@@ -113,6 +115,8 @@
 <summary>2회차</summary>
       
 2장: 네트워크의 기본 규칙
+
+- 2장 발표자 : 김하연
 
 - [X] [태희](https://taehee12.tistory.com/30)
 - [ ] 하연
