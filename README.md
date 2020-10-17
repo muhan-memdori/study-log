@@ -120,7 +120,7 @@
 
 - [X] [태희](https://taehee12.tistory.com/30)
 - [ ] 하연
-- [ ] 민섭
+- [x] 민섭(https://parkminseob.github.io/network/Networkchap05-01)
 - [ ] 희진
 
 </details>
