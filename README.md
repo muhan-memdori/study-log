@@ -69,7 +69,7 @@
 
 - [X] [태희](https://github.com/TaeheeKim15/algorism/tree/master/src/main/java/com/kimst/doit/ex03)
 - [X] [하연](https://hayeon17kim.github.io/do-it/doit03)
-- [ ] 민섭
+- [x] [민섭](https://parkminseob.github.io/algorithm/Doit-07)
 - [X] [희진](https://eungeun506.tistory.com/83)
 - [ ] 아람
 
@@ -179,7 +179,7 @@
 
 ## ✨ 프론트엔드
 
-- [HTML5 + CSS3 웹 표준의 정석](http://www.yes24.com/Product/Goods/85112155?OzSrank=1)을 읽고 매주 2장씩 블로그에 정리합니다.
+- [HTML5 + CSS3 웹 표준의 정석](http://www.yes24.com/Product/Goods/85112155?OzSrank=1)을 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 일요일 밤 12시까지 업데이트해주세요.
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [민섭](https://github.com/parkminseob), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [태희](https://github.com/TaeheeKim15)
 
