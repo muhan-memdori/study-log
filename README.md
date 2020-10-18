@@ -204,7 +204,7 @@
 1장: HTML 기본 다지기
 
 - [ ] 태희
-- [ ] 하연
+- [X] 하연(https://hayeon17kim.github.io/html5-css3/html5-css3-01)
 - [ ] 민섭
 - [X] [희진](https://eungeun506.tistory.com/88)
 - [X] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap01)
