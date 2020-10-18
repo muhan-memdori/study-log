@@ -120,8 +120,8 @@
 
 - [X] [태희](https://taehee12.tistory.com/30)
 - [X] [하연](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-02)
-- [x] 민섭(https://parkminseob.github.io/network/Networkchap05-01)
-- [ ] 희진
+- [X] [민섭](https://parkminseob.github.io/network/Networkchap05-01)
+- [X] [희진](https://eungeun506.tistory.com/87)
 
 </details>
 
@@ -192,8 +192,8 @@
 - [ ] 태희
 - [ ] 하연
 - [ ] 민섭
-- [ ] 희진
-- [X] 아람(https://github.com/YuAram/html5-css3-web-standard/tree/master/chap01)
+- [X] [희진](https://eungeun506.tistory.com/88)
+- [X] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap01)
 
 </details>
       
@@ -354,7 +354,7 @@
 | 태희 | 2,000원  |
 | 하연 | 0원      |
 | 민섭 | 2,000원  |
-| 희진 | 0원  |
+| 희진 | 1000원  |
 | 아람 | 0 원  |
 
 
