@@ -15,7 +15,7 @@
 - [🔨 리팩토링](#-리팩토링)
 - [✨ 프론트엔드](#-프론트엔드)
 - [🗂 자료구조](#-자료구조)
-- [😎 자바스크립트](#-자바스크립트)
+- @deprecated [😎 자바스크립트](#-자바스크립트)
 - [🎲 이산수학](#-이산수학)
 - [📕 개발글읽기](#-개발글읽기)
 - [🙋‍♀️ 멤버소개](#%EF%B8%8F-멤버소개)
@@ -119,7 +119,7 @@
 - 2장 발표자 : 김하연
 
 - [X] [태희](https://taehee12.tistory.com/30)
-- [ ] 하연
+- [X] [하연](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-02)
 - [x] 민섭(https://parkminseob.github.io/network/Networkchap05-01)
 - [ ] 희진
 
@@ -230,8 +230,7 @@
 
 
 ## 🎲 이산수학
-- [신흥철 교수님의 이산수학 강의](http://www.uniwise.co.kr/lecture/movieLectureDetail.html?subNo=3&searchSubjectCode=1124&searchLeccode=D201500330)를 듣고 매주 4강씩 블로그에 정리합니다.
-- 블로그 링크는 토요일 밤 12시, 일요일 밤 12시로 나누어 업데이트해주세요.
+- [신흥철 교수님의 이산수학 강의](http://www.uniwise.co.kr/lecture/movieLectureDetail.html?subNo=3&searchSubjectCode=1124&searchLeccode=D201500330)를 듣고 매주 3강씩 블로그에 정리합니다.
 - 일요일 오후 6시에 발표를 진행합니다. 
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
 
@@ -354,9 +353,9 @@
 | 이름 |   벌금   |
 | ---- | -------- |
 | 태희 | 2,000원  |
-| 하연 | 15,000원 |
+| 하연 | 0원      |
 | 민섭 | 2,000원  |
-| 희진 | 11,000원  |
+| 희진 | 0원  |
 | 아람 | 0 원  |
 
 
