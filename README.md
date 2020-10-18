@@ -193,7 +193,7 @@
 - [ ] 하연
 - [ ] 민섭
 - [ ] 희진
-- [ ] 아람
+- [X] 아람(https://github.com/YuAram/html5-css3-web-standard/tree/master/chap01)
 
 </details>
       
