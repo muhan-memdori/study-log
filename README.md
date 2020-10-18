@@ -80,7 +80,7 @@
       
 4장: 스택과 큐
 
-- [ ] 태희
+- [X] [태희](https://github.com/TaeheeKim15/algorism/tree/master/src/main/java/com/kimst/doit/ex04)
 - [ ] 하연
 - [ ] 민섭
 - [ ] 희진
@@ -122,6 +122,20 @@
 - [X] [하연](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-02)
 - [X] [민섭](https://parkminseob.github.io/network/Networkchap05-01)
 - [X] [희진](https://eungeun506.tistory.com/87)
+
+</details>
+
+<details>
+<summary>3차</summary>
+      
+3장: 물리 계층 : 데이터를 전기 신호로 변환하기
+
+- 3장 발표자 : 
+
+- [ ] 태희
+- [ ] 하연
+- [ ] 민섭
+- [ ] 희진
 
 </details>
 
@@ -351,10 +365,10 @@
 ## 💰 벌금현황
 | 이름 |   벌금   |
 | ---- | -------- |
-| 태희 | 2,000원  |
+| 태희 | 1,000원  |
 | 하연 | 0원      |
-| 민섭 | 2,000원  |
-| 희진 | 1000원  |
+| 민섭 | 0원  |
+| 희진 | 1,000원  |
 | 아람 | 0 원  |
 
 
