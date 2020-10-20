@@ -81,7 +81,7 @@
 4장: 스택과 큐
 
 - [X] [태희](https://github.com/TaeheeKim15/algorism/tree/master/src/main/java/com/kimst/doit/ex04)
-- [X] [하연](https://hayeon17kim.github.io/doit04)
+- [X] [하연](https://hayeon17kim.github.io/do-it/doit04)
 - [ ] 민섭
 - [ ] 희진
 - [X] [아람](https://github.com/YuAram/data-structure-algorithm/tree/master/src/main/java/com/aram/chap04)
