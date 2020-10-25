@@ -147,7 +147,7 @@
 
 - [ ] 태희
 - [ ] 하연
-- [ ] 민섭
+- [x] [민섭](https://parkminseob.github.io/network/Networkchap03-01/)
 - [ ] 희진
 
 </details>
@@ -232,7 +232,7 @@
 
 - [X] [태희](https://github.com/TaeheeKim15/html5-css3/tree/master/01)
 - [X] [하연](https://hayeon17kim.github.io/html5-css3/html5-css3-01)
-- [ ] 민섭
+- [x] [민섭](https://github.com/parkminseob/hongong-coding/tree/master/html5-book/01)
 - [X] [희진](https://eungeun506.tistory.com/88)
 - [X] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap01)
 
@@ -244,7 +244,7 @@
 2장: 텍스트 관련 태그들
 
 - [ ] 하연
-- [ ] 민섭
+- [x] [민섭](https://github.com/parkminseob/hongong-coding/tree/master/html5-book/02)
 - [ ] 희진
 - [ ] 태희
 - [X] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap02)
