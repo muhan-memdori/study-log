@@ -94,7 +94,7 @@
 5장: 재귀 알고리즘
 
 - [ ] 태희
-- [ ] 하연
+- [X] 하연(https://hayeon17kim.github.io/do-it/doit05)
 - [ ] 민섭
 - [ ] 희진
 - [X] [아람](https://github.com/YuAram/data-structure-algorithm/tree/master/src/main/java/com/aram/chap05)
@@ -146,7 +146,7 @@
 - 3장 발표자 : 민섭
 
 - [ ] 태희
-- [ ] 하연
+- [x] [하연](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-03)
 - [x] [민섭](https://parkminseob.github.io/network/Networkchap03-01/)
 - [ ] 희진
 
@@ -243,7 +243,7 @@
       
 2장: 텍스트 관련 태그들
 
-- [ ] 하연
+- [x] [하연](https://hayeon17kim.github.io/html5-css3/html5-css3-02)
 - [x] [민섭](https://github.com/parkminseob/hongong-coding/tree/master/html5-book/02)
 - [ ] 희진
 - [ ] 태희
