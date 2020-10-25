@@ -94,7 +94,7 @@
 5장: 재귀 알고리즘
 
 - [ ] 태희
-- [X] 하연(https://hayeon17kim.github.io/do-it/doit05)
+- [X] [하연](https://hayeon17kim.github.io/do-it/doit05)
 - [ ] 민섭
 - [ ] 희진
 - [X] [아람](https://github.com/YuAram/data-structure-algorithm/tree/master/src/main/java/com/aram/chap05)
