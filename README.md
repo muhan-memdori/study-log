@@ -143,7 +143,21 @@
       
 3장: 물리 계층 : 데이터를 전기 신호로 변환하기
 
-- 3장 발표자 : 
+- 3장 발표자 : 민섭
+
+- [ ] 태희
+- [ ] 하연
+- [ ] 민섭
+- [ ] 희진
+
+</details>
+
+<details>
+<summary>4차</summary>
+      
+4장: 데이터 링크 계층 : 랜에서 데이터 전송하기 
+
+- 4장 발표자 : 최희진
 
 - [ ] 태희
 - [ ] 하연
@@ -216,7 +230,7 @@
       
 1장: HTML 기본 다지기
 
-- [ ] 태희
+- [X] [태희](https://github.com/TaeheeKim15/html5-css3/tree/master/01)
 - [X] [하연](https://hayeon17kim.github.io/html5-css3/html5-css3-01)
 - [ ] 민섭
 - [X] [희진](https://eungeun506.tistory.com/88)
@@ -234,6 +248,19 @@
 - [ ] 희진
 - [ ] 태희
 - [X] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap02)
+
+</details>
+
+<details>
+<summary>3회차</summary> 
+      
+3장: 이미지와 하이퍼링크
+
+- [ ] 하연
+- [ ] 민섭
+- [ ] 희진
+- [ ] 태희
+- [ ] 아람
 
 </details>
 
