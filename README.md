@@ -97,7 +97,7 @@
 - [ ] 하연
 - [ ] 민섭
 - [ ] 희진
-- [ ] 아람
+- [X] [아람](https://github.com/YuAram/data-structure-algorithm/tree/master/src/main/java/com/aram/chap05)
 
 </details>
 
