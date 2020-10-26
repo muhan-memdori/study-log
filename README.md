@@ -107,10 +107,10 @@
 6장: 정렬 (198~241쪽: 버블정렬, 단순 선택 정렬, 단순 삽입 정렬, 셸정렬, 퀵정렬)
 
 - [ ] 태희
-- [X] [하연](https://hayeon17kim.github.io/do-it/doit05)
+- [ ] 하연
 - [ ] 민섭
 - [ ] 희진
-- [X] [아람](https://github.com/YuAram/data-structure-algorithm/tree/master/src/main/java/com/aram/chap05)
+- [ ] 아람
 
 </details>
 
@@ -120,10 +120,10 @@
 6장 (242~272쪽: 병합 정렬, 힙정렬, 도수 정렬) ~ 7장: 집합
 
 - [ ] 태희
-- [X] [하연](https://hayeon17kim.github.io/do-it/doit05)
+- [ ] 하연
 - [ ] 민섭
 - [ ] 희진
-- [X] [아람](https://github.com/YuAram/data-structure-algorithm/tree/master/src/main/java/com/aram/chap05)
+- [ ] 아람
 
 </details>
 
