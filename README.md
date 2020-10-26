@@ -414,7 +414,7 @@
 | 화   |   [modernJS: 객체](https://ko.javascript.info/object)   | ["개발 배경지식들 빠르게 격파하기"중 OS/하드웨어 파트](https://www.grabbing.me/8d9e92b19e084c5a8cb173a695aa81af#171215d0045b49e2affaf9e3c6eef635)     |
 | 수   |   휴식권 사용   | 휴식권 사용     |
 | 목   |   ["개발 배경지식들 빠르게 격파하기"중 OS/하드웨어 파트](https://www.grabbing.me/8d9e92b19e084c5a8cb173a695aa81af#11e414302b0f410d899f76fccbcf1bfb)   | X     |
-| 금   |  ["개발 배경 지식들 빠르게 격파하기" 중 프로그램 파트    | ["개발 배경지식들 빠르게 격파하기"중 네트워크 파트](https://www.grabbing.me/8d9e92b19e084c5a8cb173a695aa81af#a37b1cde941f4f54b9e45b813d4558b3)     |
+| 금   |  ["개발 배경 지식들 빠르게 격파하기" 중 프로그램 파트](https://www.grabbing.me/8d9e92b19e084c5a8cb173a695aa81af#0473b646e4984f6db46ed6ad3384adfb)    | ["개발 배경지식들 빠르게 격파하기"중 네트워크 파트](https://www.grabbing.me/8d9e92b19e084c5a8cb173a695aa81af#a37b1cde941f4f54b9e45b813d4558b3)     |
 
 </details>
 
