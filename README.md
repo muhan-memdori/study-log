@@ -419,7 +419,7 @@
 </details>
 
 <details>
-<summary>5회차</summary>
+<summary>6회차</summary>
 10/19~
       
 |      | 하연 | 희진 |
@@ -433,7 +433,7 @@
 </details>
 
 <details>
-<summary>5회차</summary>
+<summary>7회차</summary>
 10/26~
       
 |      | 하연 | 희진 |
