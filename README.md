@@ -408,11 +408,11 @@
 10/12~
 |      | 하연 | 희진 |
 | ---- | ---- | ---- |
-| 월   |      |     |
-| 화   |      |      |
-| 수   |      |      |
-| 목   |      |      |
-| 금   |      |      |
+| 월   |      | [웹 서비스를 제공하는 IT 회사가 사용하는 기술 A to Z 훑고 가기](https://www.grabbing.me/IT-A-to-Z-86949c18a72c4ed0a65fd2c79785c9c4)    |
+| 화   |      | ["개발 배경지식들 빠르게 격파하기"중 OS/하드웨어 파트](https://www.grabbing.me/8d9e92b19e084c5a8cb173a695aa81af#171215d0045b49e2affaf9e3c6eef635)     |
+| 수   |      | 휴식권 사용     |
+| 목   |      | X     |
+| 금   |      | ["개발 배경지식들 빠르게 격파하기"중 네트워크 파트](https://www.grabbing.me/8d9e92b19e084c5a8cb173a695aa81af#a37b1cde941f4f54b9e45b813d4558b3)     |
 
 </details>
 
