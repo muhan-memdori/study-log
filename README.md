@@ -401,11 +401,13 @@
 | 목   | [modernJS: 함수표현식](https://ko.javascript.info/function-expressions) | [페이지 교체(page-replacement) 알고리즘](https://medium.com/pocs/%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%90%EC%B2%B4-page-replacement-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-650d58ae266b)     |
 | 금   |  [modernJS: 화살표함수](https://ko.javascript.info/arrow-functions)  | [HTTP의 기초적인 측면/HTTP로 제어할 수 있는 것](https://developer.mozilla.org/ko/docs/Glossary/Protocol)     |
 
+
 </details>
 
 <details>
 <summary>5회차</summary>
 10/12~
+      
 |      | 하연 | 희진 |
 | ---- | ---- | ---- |
 | 월   |      | [웹 서비스를 제공하는 IT 회사가 사용하는 기술 A to Z 훑고 가기](https://www.grabbing.me/IT-A-to-Z-86949c18a72c4ed0a65fd2c79785c9c4)    |
@@ -413,6 +415,34 @@
 | 수   |      | 휴식권 사용     |
 | 목   |      | X     |
 | 금   |      | ["개발 배경지식들 빠르게 격파하기"중 네트워크 파트](https://www.grabbing.me/8d9e92b19e084c5a8cb173a695aa81af#a37b1cde941f4f54b9e45b813d4558b3)     |
+
+</details>
+
+<details>
+<summary>5회차</summary>
+10/19~
+      
+|      | 하연 | 희진 |
+| ---- | ---- | ---- |
+| 월   |      | 휴식권 사용   |
+| 화   |      | [DBMS란? DBMS 개념 및 데이터 베이스 시스템에 대해](https://dololak.tistory.com/453)     |
+| 수   |      | ["개발 배경 지식들 빠르게 격파하기"중 라이브러리와 프레임워크](https://www.grabbing.me/8d9e92b19e084c5a8cb173a695aa81af#c209461cb0134125bfc370d3c6f780cb)     |
+| 목   |      | 휴식권 사용     |
+| 금   |      | 휴식권 사용    |
+
+</details>
+
+<details>
+<summary>5회차</summary>
+10/26~
+      
+|      | 하연 | 희진 |
+| ---- | ---- | ---- |
+| 월   |      |   |
+| 화   |      |      |
+| 수   |      |      |
+| 목   |      |     |
+| 금   |      |     |
 
 </details>
 
