@@ -102,7 +102,7 @@
 </details>
 
 <details>
-<summary>5회차</summary>
+<summary>6회차</summary>
       
 6장: 정렬 (198~241쪽: 버블정렬, 단순 선택 정렬, 단순 삽입 정렬, 셸정렬, 퀵정렬)
 
@@ -115,7 +115,7 @@
 </details>
 
 <details>
-<summary>5회차</summary>
+<summary>7회차</summary>
       
 6장 (242~272쪽: 병합 정렬, 힙정렬, 도수 정렬) ~ 7장: 집합
 
