@@ -172,7 +172,7 @@
 - [ ] 태희
 - [x] [하연](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-03)
 - [x] [민섭](https://parkminseob.github.io/network/Networkchap03-01/)
-- [ ] 희진
+- [X] [희진](https://eungeun506.tistory.com/91)
 
 </details>
 
@@ -269,7 +269,7 @@
 
 - [x] [하연](https://hayeon17kim.github.io/html5-css3/html5-css3-02)
 - [x] [민섭](https://github.com/parkminseob/hongong-coding/tree/master/html5-book/02)
-- [ ] 희진
+- [X] [희진](https://eungeun506.tistory.com/92)
 - [ ] 태희
 - [X] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap02)
 
@@ -408,7 +408,7 @@
 10/12~
 |      | 하연 | 희진 |
 | ---- | ---- | ---- |
-| 월   |      |      |
+| 월   |      |     |
 | 화   |      |      |
 | 수   |      |      |
 | 목   |      |      |
@@ -432,7 +432,7 @@
 | 태희 | 1,000원      |
 | 하연 | 0원      |
 | 민섭 | 0원      |
-| 희진 | 0원      |
+| 희진 | 4000원      |
 | 아람 | 0원      |
 
 
