@@ -284,7 +284,7 @@
 - [ ] 민섭
 - [ ] 희진
 - [ ] 태희
-- [ ] 아람
+- [X] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap03)
 
 </details>
 
