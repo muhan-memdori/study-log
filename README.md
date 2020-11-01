@@ -185,7 +185,7 @@
 - 4장 발표자 : 최희진
 
 - [x] [태희](https://taehee12.tistory.com/31)
-- [ ] 하연
+- [X] [하연](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-04)
 - [x] [민섭](https://parkminseob.github.io/network/Networkchap04/)
 - [ ] 희진
 
