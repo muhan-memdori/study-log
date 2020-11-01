@@ -26,9 +26,9 @@
 - eomcs-java-project-2020(10 ~ 37) 복습
 - SQL(DDL, DML, DQL, JOIN) 복습
 #### 2020-11-01 (일)
-- [ ] 68일차 복습_JDBC 프로그래밍
-  - [ ] com.eomcs.jdbc.ex1
-  - [ ] com.eomcs.jdbc.ex2
+- [X] 68일차 복습_JDBC 프로그래밍
+  - [X] com.eomcs.jdbc.ex1
+  - [X] com.eomcs.jdbc.ex2
   
 #### 2020-11-02 (월)
 
