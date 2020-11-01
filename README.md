@@ -281,7 +281,7 @@
       
 3장: 이미지와 하이퍼링크
 
-- [ ] 하연
+- [x] [하연](https://hayeon17kim.github.io/html5-css3/html5-css3-03)
 - [x] [민섭](https://parkminseob.github.io/html/css/htmlCss-01/)
 - [ ] 희진
 - [ ] 태희
