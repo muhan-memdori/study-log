@@ -186,7 +186,7 @@
 
 - [x] [태희](https://taehee12.tistory.com/31)
 - [ ] 하연
-- [ ] 민섭
+- [x] [민섭](https://parkminseob.github.io/network/Networkchap04/)
 - [ ] 희진
 
 </details>
@@ -282,7 +282,7 @@
 3장: 이미지와 하이퍼링크
 
 - [ ] 하연
-- [ ] 민섭
+- [x] [민섭](https://parkminseob.github.io/html/css/htmlCss-01/)
 - [ ] 희진
 - [ ] 태희
 - [X] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap03)
