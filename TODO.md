@@ -31,7 +31,8 @@
   - [X] com.eomcs.jdbc.ex1
   - [X] com.eomcs.jdbc.ex2
 #### 2020-11-02 (월)
-- [ ] Final-Project - UI 구성하기
+- [ ] Final-Project - UI 스케치(조 과제)
+- [ ] SQL(DDL, DML) 1번 읽고 이해하기
 
 ### 희진
 #### 2020-10-30 (금)
