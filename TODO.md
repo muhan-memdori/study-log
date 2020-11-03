@@ -24,15 +24,17 @@
 ### 아람
 #### TO DO LIST
 - eomcs-java-project-2020(10 ~ 37) 복습
-- SQL(DDL, DML, DQL, JOIN) 복습
+- SQL(DQL, JOIN) 복습
 
 #### 2020-11-01 (일)
 - [X] 68일차 복습_JDBC 프로그래밍
   - [X] com.eomcs.jdbc.ex1
   - [X] com.eomcs.jdbc.ex2
 #### 2020-11-02 (월)
-- [ ] Final-Project - UI 스케치(조 과제)
-- [ ] SQL(DDL, DML) 1번 읽고 이해하기
+- [X] Final-Project - UI 스케치(조 과제)
+- [X] SQL(DDL, DML) 1번 읽고 이해하기
+#### 2020-11-02 (화)
+- [ ] SQL(DQL, JOIN) 1번 읽고 이해하기
 
 ### 희진
 #### 2020-10-30 (금)
