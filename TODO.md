@@ -40,7 +40,7 @@
 #### 2020-11-05 (목)
 - [X] Final-Project - UI 적용 이미지 수집 
 #### 2020-11-06 (금)
-- [ ] Final-Project -  
+- [X] Final-Project - UI 페이지 추가 
 - [ ] HTML 4장 
 
 ### 희진
