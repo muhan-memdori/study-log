@@ -289,6 +289,19 @@
 
 </details>
 
+<details>
+<summary>4회차</summary> 
+      
+4장: 이미지와 하이퍼링크
+
+- [ ] 하연
+- [ ] 민섭
+- [ ] 희진
+- [ ] 태희
+- [X] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap04)
+
+</details>
+
 
 
 ## 😎 자바스크립트
