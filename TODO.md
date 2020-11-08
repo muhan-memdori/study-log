@@ -50,8 +50,9 @@
 #### 2020-11-07 (토)
 - [X] Final-Project - UI 페이지 추가 
 #### 2020-11-08 (일)
+- [X] Final-Project - UI 페이지 수정
 - [X] HTML 4장
-- [ ] eomcs-java-project-2020 - 38 복습 
+- [X] eomcs-java-project-2020 - 38 - a 복습 
 
 ### 희진
 #### 2020-10-30 (금)
