@@ -24,8 +24,8 @@
 #### 2020-11-09 (월)
 - [x] UI 프로토타입 완성
 - [x] 11월 9일자 수업 정리 및 [블로그 업로드](https://hayeon17kim.github.io/bitcamp/201109-75)
-- [ ] HTML 4장 1시간
-- [ ] 모두의 네트워크 읽기
+- [x] HTML 4장 1시간 -> [3시간](https://github.com/hayeon17kim/TIL/blob/master/html5-css3/chapter04.md)
+- [x] 모두의 네트워크 읽기
 
 ### 아람
 #### TO DO LIST
