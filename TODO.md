@@ -55,8 +55,8 @@
 - [X] HTML 4장
 - [X] eomcs-java-project-2020 - 38 - a 복습 
 #### 2020-11-09 (월)
-- [ ] Final-Project - UI 페이지 수정
-- [ ] 오늘자 수업 복습 (eomcs-java-project-2020-41-a)
+- [X] Final-Project - UI 페이지 수정
+- [X] 오늘자 수업 복습 (eomcs-java-project-2020-41-a)
 
 ### 희진
 #### 2020-10-30 (금)
