@@ -29,9 +29,9 @@
 
 #### 2020-11-10 (화)
 - [x] TaskDao 변경: Mybatis 퍼시스턴스 프레임워크 도입
-- [ ] HTML 4장 1시간
+- [x] HTML 4장 1시간
 - [ ] modernJS: Iterator 파트 정리 및 블로그 업로드
-- [ ] 11월 10일자 수업 정리 및 블로그 업로드
+- [x] 11월 10일자 수업 정리 및 [블로그 업로드](https://hayeon17kim.github.io/bitcamp/201110-76)
 
 ### 아람
 #### TO DO LIST
