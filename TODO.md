@@ -27,6 +27,12 @@
 - [x] HTML 4장 1시간 -> [3시간](https://github.com/hayeon17kim/TIL/blob/master/html5-css3/chapter04.md)
 - [x] 모두의 네트워크 읽기
 
+#### 2020-11-10 (화)
+- [ ] TaskDao 변경: Mybatis 퍼시스턴스 프레임워크 도입
+- [ ] HTML 4장 1시간
+- [ ] modernJS: Iterator 파트 정리 및 블로그 업로드
+- [ ] 11월 10일자 수업 정리 및 블로그 업로드
+
 ### 아람
 #### TO DO LIST
 - eomcs-java-project-2020(10 ~ 37) 복습
