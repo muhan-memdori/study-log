@@ -64,8 +64,8 @@
 - [X] Final-Project - UI 페이지 수정
 - [X] 오늘자 수업 복습 (eomcs-java-project-2020-41-a)
 #### 2020-11-10 (화)
-- [ ] Final-Project - UI 페이지 추가
-- [ ] 오늘자 수업 복습 (TaskDao 변경)
+- [X] Final-Project - UI 페이지 추가
+- [X] 오늘자 수업 복습 (TaskDao 변경)
 
 ### 희진
 #### 2020-10-30 (금)
