@@ -295,7 +295,7 @@
 4장: 폼 관련 태그들
 
 - [ ] 하연
-- [ ] 민섭
+- [x] [민섭](https://parkminseob.github.io/html/css/htmlCss-02/)
 - [ ] 희진
 - [ ] 태희
 - [X] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap04)
@@ -475,7 +475,7 @@
 | ---- | -------- |
 | 태희 | 5,000원      |
 | 하연 | 10,000원      |
-| 민섭 | 0원      |
+| 민섭 | 4,000원      |
 | 희진 | 16,000원      |
 | 아람 | 2,000원      |
 
