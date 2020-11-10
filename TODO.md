@@ -2,7 +2,7 @@
 
 ### 바로가기
 - [하연]()
-- [아람]()
+- [아람](https://github.com/muhan-memdori/study-log/blob/main/TODO.md#%EC%95%84%EB%9E%8C)
 - [희진]()
 
 
