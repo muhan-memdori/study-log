@@ -73,7 +73,7 @@
 - [X] Final-Project - UI 페이지 추가
 - [X] 오늘자 수업 복습 (TaskDao 변경)
 #### 2020-11-11 (수)
-- [ ] 오늘자 수업 복습1 (eomcs-java-project-2020-41-b)
+- [X] 오늘자 수업 복습1 (eomcs-java-project-2020-41-b)
 - [ ] 오늘자 수업 복습2 (eomcs-java-basic/.../mybatis/ex01 ~ ex02)
 
 ### 희진
