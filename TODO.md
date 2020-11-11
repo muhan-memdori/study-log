@@ -33,6 +33,12 @@
 - [ ] modernJS: Iterator 파트 정리 및 블로그 업로드
 - [x] 11월 10일자 수업 정리 및 [블로그 업로드](https://hayeon17kim.github.io/bitcamp/201110-76)
 
+#### 2020-11-11 (수)
+- [ ] 11월 11일자 수업 정리 및 블로그 업로드
+- [ ] HTML 4장 1시간
+- [ ] modernJS: Iterator 파트 정리 및 블로그 업로드
+- [ ] UI Prototyping: QnA 게시판 수정
+
 ### 아람
 #### TO DO LIST
 - eomcs-java-project-2020(10 ~ 37) 복습
