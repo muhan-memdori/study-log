@@ -39,6 +39,12 @@
 - [ ] modernJS: Iterator 파트 정리 및 블로그 업로드
 - [ ] UI Prototyping: QnA 게시판 수정
 
+#### 2020-11-12 (목)
+- [ ] 11월 11일자 수업 정리 및 블로그 업로드
+- [ ] modernJS: Iterator 파트 정리 및 블로그 업로드
+- [x] UI Prototyping: 마이페이지/유저페이지 수정, 관리자 페이지 뱃지 관리, 태그 관리 추가
+
+
 ### 아람
 #### TO DO LIST
 - eomcs-java-project-2020(10 ~ 37) 복습
