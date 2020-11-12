@@ -40,8 +40,8 @@
 - [ ] UI Prototyping: QnA 게시판 수정
 
 #### 2020-11-12 (목)
-- [ ] 11월 11일자 수업 정리 및 블로그 업로드
-- [ ] modernJS: Iterator 파트 정리 및 블로그 업로드
+- [x] 11월 11일자 수업 정리 및 [블로그 업로드](https://hayeon17kim.github.io/bitcamp/201111-77)
+- [x] modernJS: Iterator 파트 [정리](https://github.com/hayeon17kim/TIL/blob/master/modern-javascript-tutorial/corejs-iterable.md)
 - [x] UI Prototyping: 마이페이지/유저페이지 수정, 관리자 페이지 뱃지 관리, 태그 관리 추가
 
 
