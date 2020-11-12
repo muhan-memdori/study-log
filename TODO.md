@@ -77,7 +77,7 @@
 - [X] 오늘자 수업 복습2 (eomcs-java-basic/.../mybatis/ex01 ~ ex02)
 #### 2020-11-12 (목)
 - [ ] 오늘자 수업 복습1 (eomcs-java-project-2020-)
-- [ ] 오늘자 수업 복습2 (eomcs-java-basic/.../mybatis/ex03 ~ )
+- [X] 오늘자 수업 복습2 (eomcs-java-basic/.../mybatis/ex03 ~ ex04)
 
 ### 희진
 #### 2020-10-30 (금)
