@@ -45,7 +45,7 @@
 - [x] UI Prototyping: 마이페이지/유저페이지 수정, 관리자 페이지 뱃지 관리, 태그 관리 추가
 
 #### 2020-11-13 (금)
-- [ ] modernJS
+- [ ] modernJS 읽고 과제수행 + 정리한 후 블로그 업로드
   - [ ] 위크맵과 위크셋
   - [ ] Object.keys, values, entries
   - [ ] 구조 분해 할당
