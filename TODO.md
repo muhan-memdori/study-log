@@ -44,6 +44,14 @@
 - [x] modernJS: Iterator 파트 [정리](https://github.com/hayeon17kim/TIL/blob/master/modern-javascript-tutorial/corejs-iterable.md)
 - [x] UI Prototyping: 마이페이지/유저페이지 수정, 관리자 페이지 뱃지 관리, 태그 관리 추가
 
+#### 2020-11-13 (금)
+- [ ] modernJS
+  - [ ] 위크맵과 위크셋
+  - [ ] Object.keys, values, entries
+  - [ ] 구조 분해 할당
+- [ ] 전송 7계층 관련 자료 정리하여 블로그 업로드
+
+
 
 ### 아람
 #### TO DO LIST
