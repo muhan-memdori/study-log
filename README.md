@@ -301,7 +301,18 @@
 - [X] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap04)
 
 </details>
+<details>
+<summary>5회차</summary> 
+      
+5장: CSS기초
 
+- [ ] 하연
+- [x] [민섭](https://parkminseob.github.io/html/css/htmlCss-03/)
+- [ ] 희진
+- [ ] 태희
+- [ ] 아람
+
+</details>
 
 
 ## 😎 자바스크립트
