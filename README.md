@@ -294,7 +294,7 @@
       
 4장: 폼 관련 태그들
 
-- [ ] 하연
+- [x] [하연](https://hayeon17kim.github.io/html5-css3/html5-css3-04)
 - [x] [민섭](https://parkminseob.github.io/html/css/htmlCss-02/)
 - [ ] 희진
 - [ ] 태희
@@ -306,7 +306,7 @@
       
 5장: CSS기초
 
-- [ ] 하연
+- [x] [하연](https://hayeon17kim.github.io/html5-css3/html5-css3-05)
 - [x] [민섭](https://parkminseob.github.io/html/css/htmlCss-03/)
 - [X] [희진](https://eungeun506.tistory.com/112)
 - [ ] 태희
