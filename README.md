@@ -308,7 +308,7 @@
 
 - [ ] 하연
 - [x] [민섭](https://parkminseob.github.io/html/css/htmlCss-03/)
-- [ ] 희진
+- [X] [희진](https://eungeun506.tistory.com/112)
 - [ ] 태희
 - [X] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap05)
 
