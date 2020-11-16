@@ -64,9 +64,9 @@
 
 #### 2020-11-16 (일)
 - [X] DB 모델링 완성
-- [X] 11월 16일 수업 정리 및 블로그 업로드
-- [ ] modernJS article 하나 정리 및 블로그 업로드
-- [ ] 모두의 네트워크 6장 읽기
+- [X] 11월 16일 수업 정리 및 [블로그 업로드](https://hayeon17kim.github.io/bitcamp/201116-80)
+- [x] modernJS article WeakMap, WeakSet 정리 및 [블로그 업로드](https://hayeon17kim.github.io/javascript/corejs-weakmap-weakset)
+- [x] 모두의 네트워크 6장 읽기
 
 ### 아람
 #### TO DO LIST
