@@ -70,7 +70,7 @@
 
 #### 2020-11-17 (월)
 - [x] 11월 17일 수업 정리 및 [블로그 업로드](https://hayeon17kim.github.io/bitcamp/201117-81)
-- [ ] modernJS article
+- [x] modernJS article
 
 
 ### 아람
