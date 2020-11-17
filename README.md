@@ -206,7 +206,7 @@
 </details>
 
 <details>
-<summary>5회차</summary>
+<summary>6회차</summary>
       
 6장
 
