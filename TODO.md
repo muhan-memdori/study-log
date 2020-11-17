@@ -68,6 +68,11 @@
 - [x] modernJS article WeakMap, WeakSet 정리 및 [블로그 업로드](https://hayeon17kim.github.io/javascript/corejs-weakmap-weakset)
 - [x] 모두의 네트워크 6장 읽기
 
+#### 2020-11-17 (월)
+- [x] 11월 17일 수업 정리 및 [블로그 업로드](https://hayeon17kim.github.io/bitcamp/201117-81)
+- [ ] modernJS article
+
+
 ### 아람
 #### TO DO LIST
 - eomcs-java-project-2020(10 ~ 37) 복습
