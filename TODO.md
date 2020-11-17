@@ -70,7 +70,7 @@
 
 #### 2020-11-17 (월)
 - [ ] DB 모델링 피드백 반영
-- [ ] 11월 16일 수업 정리 및 [블로그 업로드](https://hayeon17kim.github.io/bitcamp/201116-80)
+- [ ] 11월 17일 수업 정리 및 블로그 업로드
 - [ ] modernJS article
   - [ ] Object.keys, values, entries
   - [ ] 구조 분해 할당
