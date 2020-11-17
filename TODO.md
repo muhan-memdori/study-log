@@ -71,7 +71,7 @@
 #### 2020-11-17 (월)
 - [x] 11월 17일 수업 정리 및 [블로그 업로드](https://hayeon17kim.github.io/bitcamp/201117-81)
 - [x] modernJS article Object.keys, values, entreis 정리 및 [블로그 업로드](https://hayeon17kim.github.io/javascript/corejs-object-keys-values-entries)
-- [ ] 모두의 네트워크 30분
+- [x] 모두의 네트워크 30분
 
 
 ### 아람
