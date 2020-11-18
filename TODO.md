@@ -73,6 +73,13 @@
 - [x] modernJS article Object.keys, values, entreis 정리 및 [블로그 업로드](https://hayeon17kim.github.io/javascript/corejs-object-keys-values-entries)
 - [x] 모두의 네트워크 30분
 
+#### 2020-11-18 (화)
+- [ ] 웹 크롤링
+  - [x] 채용공고 제목
+  - [x] 채용공고 날짜: 날짜 데이터로 parsing
+  - [ ] 채용공고 내용: 해당 제목의 링크로 들어가서 내용을 가져와야 함
+  
+
 
 ### 아람
 #### TO DO LIST
