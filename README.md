@@ -341,7 +341,18 @@
 - [X] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap05)
 
 </details>
+<details>
+<summary>6회차</summary> 
+      
+6장: 텍스트 관련 스타일
 
+- [] [하연]()
+- [x] [민섭](https://parkminseob.github.io/html/css/htmlCss-06/)
+- [] [희진]()
+- [] 태희
+- [] [아람]()
+
+</details>
 
 ## 😎 자바스크립트
 - 이선 브라운의 [러닝 자바스크립트](http://www.yes24.com/Product/Goods/42806896?OzSrank=5)를 읽고 매주 정해진 분량 만큼 블로그에 정리합니다.
