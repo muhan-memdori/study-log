@@ -200,7 +200,7 @@
 
 - [ ] [태희]()
 - [ ] [하연]()
-- [ ] [민섭]()
+- [x] [민섭](https://parkminseob.github.io/network/Networkchap05-01/)
 - [ ] [희진]()
 
 </details>
@@ -214,11 +214,23 @@
 
 - [ ] [태희]()
 - [ ] [하연]()
-- [ ] [민섭]()
+- [x] [민섭](https://parkminseob.github.io/network/Networkchap06-01/)
 - [X] [희진](https://eungeun506.tistory.com/116)
 
 </details>
+<details>
+<summary>6회차</summary>
+      
+7장
 
+- 7장 발표자 : 
+
+- [ ] [태희]()
+- [ ] [하연]()
+- [x] [민섭](https://parkminseob.github.io/network/Networkchap07/)
+- [ ] [희진]()
+
+</details>
 
 
 ## 🗂 자료구조
