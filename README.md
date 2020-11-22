@@ -362,7 +362,7 @@
 - [x] [민섭](https://parkminseob.github.io/html/css/htmlCss-06/)
 - [ ] [희진]()
 - [ ] [태희]()
-- [ ] [아람]()
+- [x] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap06)
 
 </details>
 
