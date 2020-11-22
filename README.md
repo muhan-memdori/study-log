@@ -219,7 +219,7 @@
 
 </details>
 <details>
-<summary>6회차</summary>
+<summary>7회차</summary>
       
 7장
 
