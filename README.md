@@ -213,7 +213,7 @@
 - 6장 발표자 : 
 
 - [ ] [태희]()
-- [ ] [하연]()
+- [x] [하연](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-06)
 - [x] [민섭](https://parkminseob.github.io/network/Networkchap06-01/)
 - [X] [희진](https://eungeun506.tistory.com/116)
 
@@ -358,7 +358,7 @@
       
 6장: 텍스트 관련 스타일
 
-- [ ] [하연]()
+- [x] [하연](https://hayeon17kim.github.io/html5-css3/html5-css3-06)
 - [x] [민섭](https://parkminseob.github.io/html/css/htmlCss-06/)
 - [ ] [희진]()
 - [ ] [태희]()
@@ -536,7 +536,7 @@
 | 이름 |   벌금   |
 | ---- | -------- |
 | 태희 | 11,000원      |
-| 하연 | 10,000원      |
+| 하연 | 15,000원      |
 | 민섭 | 4,000원      |
 | 희진 | 19,000원      |
 | 아람 | 5,000원      |
