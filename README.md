@@ -365,6 +365,30 @@
 - [x] [아람](https://github.com/YuAram/html5-css3-web-standard/tree/master/chap06)
 
 </details>
+<details>
+<summary>7회차</summary> 
+      
+7장: 색상과 배경을 위한 스타일
+
+- [ ] [하연]()
+- [x] [민섭](https://parkminseob.github.io/html/css/htmlCss-07/)
+- [ ] [희진]()
+- [ ] [태희]()
+- [ ] [아람]()
+
+</details>
+<details>
+<summary>8회차</summary> 
+      
+8장: CSS박스 모델
+
+- [ ] [하연]()
+- [x] [민섭](https://parkminseob.github.io/html/css/htmlCss-08/)
+- [ ] [희진]()
+- [ ] [태희]()
+- [ ] [아람]()
+
+</details>
 
 ## 😎 자바스크립트
 - 이선 브라운의 [러닝 자바스크립트](http://www.yes24.com/Product/Goods/42806896?OzSrank=5)를 읽고 매주 정해진 분량 만큼 블로그에 정리합니다.
