@@ -105,7 +105,7 @@
 - [x] DEVIL 스타일 정리
 
 #### 2020-11-30 (월)
-- [ ] 데빌 ArticleXxxServlet
+- [x] 데빌 ArticleXxxServlet
 
 ### 아람
 #### TO DO LIST
