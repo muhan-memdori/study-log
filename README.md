@@ -370,7 +370,7 @@
       
 7장: 색상과 배경을 위한 스타일
 
-- [ ] [하연]()
+- [x] [하연](https://hayeon17kim.github.io/html5-css3/html5-css3-07)
 - [x] [민섭](https://parkminseob.github.io/html/css/htmlCss-07/)
 - [ ] [희진]()
 - [ ] [태희]()
@@ -382,7 +382,7 @@
       
 8장: CSS박스 모델
 
-- [ ] [하연]()
+- [x] [하연](https://hayeon17kim.github.io/html5-css3/html5-css3-08)
 - [x] [민섭](https://parkminseob.github.io/html/css/htmlCss-08/)
 - [ ] [희진]()
 - [ ] [태희]()
