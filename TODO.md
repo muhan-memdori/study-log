@@ -104,6 +104,9 @@
   - [x] 11월 24일 블로그 정리 
 - [x] DEVIL 스타일 정리
 
+#### 2020-11-30 (월)
+- [ ] 데빌 ArticleXxxServlet
+
 ### 아람
 #### TO DO LIST
 - eomcs-java-project-2020(10 ~ 37) 복습
