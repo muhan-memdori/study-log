@@ -107,6 +107,11 @@
 #### 2020-11-30 (월)
 - [x] 데빌 ArticleXxxServlet
 
+#### 2020-12-01 (화)
+- [ ] 프로젝트: ArticleListSerlvet: 검색 기능 구현
+- [ ] 프로젝트: TagAddServlet, TagUpdate, TagDelete, TagDetail 기능 구현(CRUD)
+- [ ] 수업 복
+
 ### 아람
 #### TO DO LIST
 - eomcs-java-project-2020(10 ~ 37) 복습
