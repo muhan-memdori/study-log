@@ -108,9 +108,9 @@
 - [x] 데빌 ArticleXxxServlet
 
 #### 2020-12-01 (화)
-- [ ] 프로젝트: ArticleListSerlvet: 검색 기능 구현
-- [ ] 프로젝트: TagAddServlet, TagUpdate, TagDelete, TagDetail 기능 구현(CRUD)
-- [ ] 수업 복
+- [x] 프로젝트: ArticleListSerlvet: 검색 기능 구현
+- [x] 프로젝트: TagAddServlet, TagUpdate, TagDelete, TagDetail 기능 구현(CRUD)
+- [x] 수업 복
 
 ### 아람
 #### TO DO LIST
