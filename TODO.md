@@ -110,7 +110,11 @@
 #### 2020-12-01 (화)
 - [x] 프로젝트: ArticleListSerlvet: 검색 기능 구현
 - [x] 프로젝트: TagAddServlet, TagUpdate, TagDelete, TagDetail 기능 구현(CRUD)
-- [x] 수업 복
+- [x] 수업 복습
+
+#### 2020-12-06 (일)
+- [ ] 수업 삼일치 복습
+- [ ] HTML+CSS 2장 
 
 ### 아람
 #### TO DO LIST
