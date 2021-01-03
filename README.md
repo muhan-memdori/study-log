@@ -9,6 +9,7 @@
 
 - [📌 기본규칙](#-기본규칙)
 - [🧩 알고리즘](#-알고리즘)
+- [🌿 스프링](#-스프링)
 - [🗂 자료구조](#-자료구조)
 - [😎 자바스크립트](#-자바스크립트)
 - [📕 개발글읽기](#-개발글읽기)
@@ -55,7 +56,7 @@
 </details>
 
 
-## 🌿 **스프링**
+## 🌿 스프링
 
 김영한의 [스프링 입문](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8#description)(무료), [스프링 핵심원리 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8), [모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)을 따라가면서 공부합니다.
 
@@ -164,55 +165,120 @@ HTTP 웹 기본 지식 섹션 2~6
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
 
 <details>
-<summary>1회차</summary>
-1장, 2장
+<summary>1주차</summary>
 
-- [X] 하연: [1장](https://hayeon17kim.github.io/learning-js/learning-js-01), [2장](https://hayeon17kim.github.io/learning-js/learning-js-02)
-- [X] 희진: [1장](https://eungeun506.tistory.com/95), [2장](https://eungeun506.tistory.com/96)
+**자바스크립트 기본**
+2.1. Hello, world! ~ 2.10. if와 '?'를 사용한 조건 처리
 
-</details>
-
-
-
-## 🎲 이산수학
-- [신흥철 교수님의 이산수학 강의](http://www.uniwise.co.kr/lecture/movieLectureDetail.html?subNo=3&searchSubjectCode=1124&searchLeccode=D201500330)를 듣고 매주 3강씩 블로그에 정리합니다.
-- 일요일 오후 6시에 발표를 진행합니다. 
-- 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
-
-<details>
-<summary>1회차</summary>
-1~4강
-
-- [X] 하연: [1강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics01), [2강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics02), [3강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics03), [4강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics01) 
-- [X] 희진 : [1,2강](https://eungeun506.tistory.com/65?category=897674), [3,4강](https://eungeun506.tistory.com/66?category=897674)
+- [ ] 하연
+- [ ] 희진
 
 </details>
 
 <details>
-<summary>2회차</summary>
-5~8강
+<summary>2주차</summary>
 
-- [X] 하연: [5강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics05), [6강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics06), [7강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics07), [8강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics08)
-- [X] 희진: [5,6강](https://eungeun506.tistory.com/71?category=897674), [7강](https://eungeun506.tistory.com/73?category=897674), [8강](https://eungeun506.tistory.com/76?category=897674)
+**자바스크립트 기본**
+2.9. 논리 연산자 ~ 2.18. if와 '?'를 사용한 조건 처리
+
+**코드품질**
+3.1. Chrome으로 디버깅하기 ~ 3.2. 코딩 스타일
+
+- [ ] 하연
+- [ ] 희진
 
 </details>
 
 <details>
-<summary>3회차</summary>
-9~13강
+<summary>3주차</summary>
 
-- [ ] 하연 [9, 10강](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics0910)
-- [ ] 희진 [9, 10강](https://eungeun506.tistory.com/82)
+**코드품질**
+3.3. 주석 ~ 3.6. 폴리필
+
+**객체:기본**
+4.1. 객체 ~ 4.3. 가비지 컬렉션
+
+- [ ] 하연
+- [ ] 희진
 
 </details>
 
+<details>
+<summary>4주차</summary>
 
+**객체:기본**
+4.4. 메서드와 `this` ~ 4.8. 객체를 원시형으로 변환하기
+
+- [ ] 하연
+- [ ] 희진
+
+</details>
+
+<details>
+<summary>5주차</summary>
+
+**자료구조와 자료형**
+5.1 원시값의 메서드 ~ 5.5 배열과 메서드
+
+- [ ] 하연
+- [ ] 희진
+
+</details>
+
+<details>
+<summary>6주차</summary>
+
+**자료구조와 자료형**
+5.6 iterable 객체 ~ 5.10 구조 분해 할당
+
+- [ ] 하연
+- [ ] 희진
+
+</details>
+
+<details>
+<summary>7주차</summary>
+
+**자료구조와 자료형**
+5.11 Date 객체와 날짜 ~ 5.12 JSON과 메서드
+
+**함수 심화학습**
+6.1 재귀와 스택 ~ 6.3 전역 객체
+
+- [ ] 하연
+- [ ] 희진
+
+</details>
+
+<details>
+<summary>8주차</summary>
+
+**함수 심화학습**
+6.4 오래된 `var` ~ 6.8. `setTimeout`과 `setInterval`을 이용한 호출 스케줄링
+
+- [ ] 하연
+- [ ] 희진
+
+</details>
+
+<details>
+<summary>9주차</summary>
+
+**함수 심화학습**
+6.9 `call/apply`와 데코레이터, 포워딩 ~ 6.11. 화살표 함수 다시 살펴보기
+
+**객체 프로퍼티 설정**
+7.1 프로퍼티 플래그와 설명자 ~ 7.2. 프로퍼티 `getter`와 `setter`
+
+- [ ] 하연
+- [ ] 희진
+
+</details>
 
 
 ## 📕 개발글읽기
 
 - 평일 매일 1개의 개발 관련 글을 읽고 정리합니다.
-- 주말에는 다른 멤버가 정리한 글을 읽는 시간을 갖습니다.
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
 - [이전 개발글읽기 기록 바로가기](https://github.com/muhan-memdori/study-log/blob/main/README-01.md#-%EA%B0%9C%EB%B0%9C%EA%B8%80%EC%9D%BD%EA%B8%B0)
 
