@@ -10,9 +10,10 @@
 - [📌 기본규칙](#-기본규칙)
 - [🧩 알고리즘](#-알고리즘)
 - [🌿 스프링](#-스프링)
-- [🗂 자료구조](#-자료구조)
-- [😎 자바스크립트](#-자바스크립트)
+- [👨‍🏫 eomcs](#-eomcs)
+- [✨ 자바스크립트](#-자바스크립트)
 - [📕 개발글읽기](#-개발글읽기)
+- [🌈 코틀린](#-코틀린)
 - [🙋‍♀️ 멤버소개](#%EF%B8%8F-멤버소개)
 - [💰 벌금현황](#-벌금현황)
 
@@ -64,6 +65,7 @@
 <summary>1주차</summary>
       
 스프링 입문 섹션 0~5
+
 - [ ] 태희
 - [ ] 하연
 - [ ] 희진
@@ -74,7 +76,9 @@
 <details>
 <summary>2주차</summary>
       
-스프링 입문 섹션 6~7, 스프링 핵심원리 섹션 0~3
+스프링 입문 섹션 6~7
+
+스프링 핵심원리 섹션 0~3
 - [ ] 태희
 - [ ] 하연
 - [ ] 희진
@@ -96,7 +100,10 @@
 <details>
 <summary>4회차</summary>
       
-스프링 핵심원리 섹션 8~9, HTTP 웹 기본 지식 섹션 0~1
+스프링 핵심원리 섹션 8~9
+
+HTTP 웹 기본 지식 섹션 0~1
+
 - [ ] 태희
 - [ ] 하연
 - [ ] 희진
@@ -115,53 +122,18 @@ HTTP 웹 기본 지식 섹션 2~6
 
 </details>
 
+## 👨‍🏫 eomcs
+- 엄진영 강사님의 수업을 복습합니다.
+    - [자바 171기 저장소](https://github.com/eomjinyoung/bitcamp-20200713)
+    - [엄진영의 코딩스쿨](https://github.com/eomcs)
+- 하루에 수업 한 개씩 정리해서 블로그에 올립니다.
+- +a) 각 파트에 해당하는 기본서를 읽고 내용을 보충합니다.
 
 
-## 🗂 자료구조
-
-- 앨런 B. 다우니의 [Think Data Structures](http://www.yes24.com/Product/Goods/61198657)를 읽고 매주 1장씩 블로그에 정리합니다.
-- 블로그 링크는 일요일 밤 12시까지 업데이트 해주세요.
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
-
-
-<details>
-<summary>1회차</summary>
-      
-1장: 인터페이스
-
-- [X] [태희](https://taehee12.tistory.com/20) 
-- [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure01)
-- [X] [희진](https://eungeun506.tistory.com/26?category=890123)
-
-</details>
-
-<details>
-<summary>2회차</summary>
-
-2장: 알고리즘 분석
-
-- [X] [태희](https://taehee12.tistory.com/21), [알고리즘 분석1](https://taehee12.tistory.com/24), [알고리즘 분석2](https://taehee12.tistory.com/25)
-- [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure02)
-- [X] [희진](https://eungeun506.tistory.com/29?category=890123)
-
-</details>
-
-<details>
-<summary>3회차</summary>
-
-3장: ArrayList 클래스
-
-- [ ] 태희
-- [X] [하연](https://hayeon17kim.github.io/data-structure/data-structure03)
-- [X] [희진](https://eungeun506.tistory.com/55?category=890123)
-
-</details>
-
-
-
-## 😎 자바스크립트
-- 이선 브라운의 [러닝 자바스크립트](http://www.yes24.com/Product/Goods/42806896?OzSrank=5)를 읽고 매주 정해진 분량 만큼 블로그에 정리합니다.
-- 블로그 링크는 일요일 밤 12시까지 업데이트해주세요.
+## ✨ 자바스크립트
+- [모던 자바스크립트 튜토리얼](https://ko.javascript.info/)을 읽습니다.
+- 평일 하루에 한 편씩 읽고 블로그에 정리한 후 인증합니다.
+    - 단, 챕터 2는 하루에 2편씩 읽도록 합니다.
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
 
 <details>
@@ -276,6 +248,11 @@ HTTP 웹 기본 지식 섹션 2~6
 </details>
 
 
+## 🌈 코틀린
+
+- 고돈호의 [이것이 안드로이드다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237983907)를 읽습니다.
+
+
 ## 📕 개발글읽기
 
 - 평일 매일 1개의 개발 관련 글을 읽고 정리합니다.
@@ -300,7 +277,6 @@ HTTP 웹 기본 지식 섹션 2~6
 
 - 태희: [깃허브](https://github.com/TaeheeKim15), [블로그](https://taehee12.tistory.com/)
 - 하연: [깃허브](https://github.com/hayeon17kim), [블로그](https://hayeon17kim.github.io/)
-- 민섭: [깃허브](https://github.com/parkminseob), [블로그](https://parkminseob.github.io/)
 - 희진: [깃허브](https://github.com/Hee-jin506), [블로그](https://eungeun506.tistory.com/)
 - 아람: [깃허브](https://github.com/YuAram)
 
