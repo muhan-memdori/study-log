@@ -29,7 +29,7 @@
 ## 🧩 알고리즘
 - [Do it! 자료구조와 함께 배우는 알고리즘 입문](http://www.yes24.com/Product/Goods/60547893?OzSrank=3)을 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 요일 밤 12시까지 업데이트해주세요.
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [민섭](https://github.com/parkminseob), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram)
 <details>
 <summary>6주차</summary>
       
@@ -37,7 +37,6 @@
 
 - [ ] 태희
 - [ ] 하연
-- [ ] 민섭
 - [ ] 희진
 - [X] [아람](https://github.com/YuAram/data-structure-algorithm/tree/master/src/main/java/com/aram/chap06)
 
@@ -50,7 +49,6 @@
 
 - [ ] 태희
 - [ ] 하연
-- [ ] 민섭
 - [ ] 희진
 - [ ] 아람
 
