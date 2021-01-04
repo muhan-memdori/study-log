@@ -33,7 +33,7 @@
 - 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
 <details>
 <summary>6주차</summary>
-      
+
 6장: 정렬 (198~241쪽: 버블정렬, 단순 선택 정렬, 단순 삽입 정렬, 셸정렬, 퀵정렬)
 
 - [ ] 태희
@@ -45,7 +45,7 @@
 
 <details>
 <summary>7주차</summary>
-      
+
 6장 (242~272쪽: 병합 정렬, 힙정렬, 도수 정렬) ~ 7장: 집합
 
 - [ ] 태희
@@ -60,7 +60,7 @@
 - 참여 멤버: [지연](https://github.com/jiyounyou), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu)
 <details>
 <summary>1주차</summary>
-      
+
 1장: 기본 알고리즘
 
 - [ ] 지연
@@ -71,7 +71,7 @@
 
 <details>
 <summary>2주차</summary>
-      
+
 2장: 기본 자료구조
 
 - [ ] 지연
@@ -82,7 +82,7 @@
 
 <details>
 <summary>3주차</summary>
-      
+
 3장: 검색
 
 - [ ] 지연
@@ -93,7 +93,7 @@
 
 <details>
 <summary>4주차</summary>
-      
+
 4장: 스택과 큐
 
 - [ ] 지연
@@ -104,7 +104,7 @@
 
 <details>
 <summary>5주차</summary>
-      
+
 5장: 재귀 알고리즘
 
 - [ ] 지연
@@ -115,7 +115,7 @@
 
 <details>
 <summary>6주차</summary>
-      
+
 6장: 정렬 (198~241쪽: 버블정렬, 단순 선택 정렬, 단순 삽입 정렬, 셸정렬, 퀵정렬)
 
 - [ ] 지연
@@ -126,7 +126,7 @@
 
 <details>
 <summary>7주차</summary>
-      
+
 6장 (242~272쪽: 병합 정렬, 힙정렬, 도수 정렬) ~ 7장: 집합
 
 - [ ] 지연
@@ -143,11 +143,11 @@
   - [스프링 핵심원리 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
   - [모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [지연](https://github.com/jiyounyou), [승희](https://github.com/seunghee-ryu), [재현](https://github.com/jaehyunYi)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [지연](https://github.com/jiyounyou), [승희](https://github.com/seunghee-ryu), [재현](https://github.com/jaehyunYi), [지은](https://github.com/j-jieun2)
 
 <details>
 <summary>1주차</summary>
-      
+
 스프링 입문 섹션 0~5
 
 - [ ] 태희
@@ -157,12 +157,13 @@
 - [ ] 지연
 - [ ] 승희
 - [ ] 재현
+- [ ] 지은
 
 </details>
 
 <details>
 <summary>2주차</summary>
-      
+
 스프링 입문 섹션 6~7
 
 스프링 핵심원리 섹션 0~3
@@ -177,7 +178,7 @@
 
 <details>
 <summary>3주차</summary>
-      
+
 스프링 핵심원리 섹션 4~7
 - [ ] 태희
 - [ ] 하연
@@ -191,7 +192,7 @@
 
 <details>
 <summary>4회차</summary>
-      
+
 스프링 핵심원리 섹션 8~9
 
 HTTP 웹 기본 지식 섹션 0~1
@@ -208,7 +209,7 @@ HTTP 웹 기본 지식 섹션 0~1
 
 <details>
 <summary>5회차</summary>
-      
+
 HTTP 웹 기본 지식 섹션 2~6
 - [ ] 태희
 - [ ] 하연
@@ -233,7 +234,7 @@ HTTP 웹 기본 지식 섹션 2~6
 - [모던 자바스크립트 튜토리얼](https://ko.javascript.info/)을 읽습니다.
 - 평일 하루에 한 편씩 읽고 블로그에 정리한 후 인증합니다.
     - 단, 챕터 2는 하루에 2편씩 읽도록 합니다.
-- 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506). [승희](https://github.com/seunghee-ryu), [지연](https://github.com/jiyounyou)
+- 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506). [승희](https://github.com/seunghee-ryu), [지연](https://github.com/jiyounyou), [지은](https://github.com/j-jieun2)
 
 <details>
 <summary>1주차</summary>
@@ -372,7 +373,7 @@ HTTP 웹 기본 지식 섹션 2~6
 
 <details>
 <summary>1주차</summary>
-      
+
 CHAPTER 1: 코틀린 안드로이드 이해하기 ~ CHAPTER 2: 개발 도구 설치와 앱 실행하기 
 
 - [ ] 하연
@@ -383,7 +384,7 @@ CHAPTER 1: 코틀린 안드로이드 이해하기 ~ CHAPTER 2: 개발 도구 설
 
 <details>
 <summary>2주차</summary>
-      
+
 CHAPTER 3: 코틀린 사용을 위한 기본 문법
 
 - [ ] 하연
@@ -394,7 +395,7 @@ CHAPTER 3: 코틀린 사용을 위한 기본 문법
 
 <details>
 <summary>3주차</summary>
-      
+
 CHAPTER 4: 위젯과 리소스 다루기
 
 - [ ] 하연
