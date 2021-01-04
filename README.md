@@ -143,7 +143,7 @@
   - [스프링 핵심원리 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
   - [모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [지연](https://github.com/jiyounyou), [승희](https://github.com/seunghee-ryu), [재현](https://github.com/jaehyunYi)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [지연](https://github.com/jiyounyou), [승희](https://github.com/seunghee-ryu), [재현](https://github.com/jaehyunYi), [지은](https://github.com/j-jieun2)
 
 <details>
 <summary>1주차</summary>
@@ -157,6 +157,7 @@
 - [ ] 지연
 - [ ] 승희
 - [ ] 재현
+- [ ] 지은
 
 </details>
 
@@ -233,7 +234,7 @@ HTTP 웹 기본 지식 섹션 2~6
 - [모던 자바스크립트 튜토리얼](https://ko.javascript.info/)을 읽습니다.
 - 평일 하루에 한 편씩 읽고 블로그에 정리한 후 인증합니다.
     - 단, 챕터 2는 하루에 2편씩 읽도록 합니다.
-- 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506). [승희](https://github.com/seunghee-ryu), [지연](https://github.com/jiyounyou)
+- 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506). [승희](https://github.com/seunghee-ryu), [지연](https://github.com/jiyounyou), [지은](https://github.com/j-jieun2)
 
 <details>
 <summary>1주차</summary>
