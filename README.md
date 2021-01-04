@@ -321,7 +321,7 @@ CHAPTER 4: 위젯과 리소스 다루기
 
 - 오늘 할 일을 다른 멤버들과 디스코드에 공유합니다. 
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [아람](https://github.com/YuAram)
-- [이전 개발글읽기 기록 바로가기](https://github.com/muhan-memdori/study-log/blob/main/README-01.md#-%EA%B0%9C%EB%B0%9C%EA%B8%80%EC%9D%BD%EA%B8%B0)
+- [이전 TODO 기록 바로가기](https://github.com/muhan-memdori/study-log/blob/main/TODO.md)
 
 
 
