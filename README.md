@@ -276,6 +276,38 @@ HTTP 웹 기본 지식 섹션 2~6
 - 고돈호의 [이것이 안드로이드다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237983907)를 읽습니다.
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [승희](https://github.com/seunghee-ryu)
 
+<details>
+<summary>1주차</summary>
+      
+CHAPTER 1: 코틀린 안드로이드 이해하기 ~ CHAPTER 2: 개발 도구 설치와 앱 실행하기 
+
+- [ ] 하연
+- [ ] 희진
+- [ ] 승희
+
+</details>
+
+<details>
+<summary>2주차</summary>
+      
+CHAPTER 3: 코틀린 사용을 위한 기본 문법
+
+- [ ] 하연
+- [ ] 희진
+- [ ] 승희
+
+</details>
+
+<details>
+<summary>3주차</summary>
+      
+CHAPTER 4: 위젯과 리소스 다루기
+
+- [ ] 하연
+- [ ] 희진
+- [ ] 승희
+
+</details>
 
 ## 📕 개발글읽기
 
