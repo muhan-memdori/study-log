@@ -29,7 +29,7 @@
 ## 🧩 알고리즘
 - [Do it! 자료구조와 함께 배우는 알고리즘 입문](http://www.yes24.com/Product/Goods/60547893?OzSrank=3)을 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 요일 밤 12시까지 업데이트해주세요.
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu)
 <details>
 <summary>6주차</summary>
       
@@ -62,7 +62,7 @@
   - [스프링 핵심원리 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
   - [모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [지연](https://github.com/jiyounyou)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [지연](https://github.com/jiyounyou), [승희](https://github.com/seunghee-ryu)
 
 <details>
 <summary>1주차</summary>
@@ -73,6 +73,8 @@
 - [ ] 하연
 - [ ] 희진
 - [ ] 아람
+- [ ] 지연
+- [ ] 승희
 
 </details>
 
@@ -86,6 +88,8 @@
 - [ ] 하연
 - [ ] 희진
 - [ ] 아람
+- [ ] 지연
+- [ ] 승희
 
 </details>
 
@@ -97,6 +101,8 @@
 - [ ] 하연
 - [ ] 희진
 - [ ] 아람
+- [ ] 지연
+- [ ] 승희
 
 </details>
 
@@ -111,6 +117,8 @@ HTTP 웹 기본 지식 섹션 0~1
 - [ ] 하연
 - [ ] 희진
 - [ ] 아람
+- [ ] 지연
+- [ ] 승희
 
 </details>
 
@@ -122,6 +130,8 @@ HTTP 웹 기본 지식 섹션 2~6
 - [ ] 하연
 - [ ] 희진
 - [ ] 아람
+- [ ] 지연
+- [ ] 승희
 
 </details>
 
@@ -138,7 +148,7 @@ HTTP 웹 기본 지식 섹션 2~6
 - [모던 자바스크립트 튜토리얼](https://ko.javascript.info/)을 읽습니다.
 - 평일 하루에 한 편씩 읽고 블로그에 정리한 후 인증합니다.
     - 단, 챕터 2는 하루에 2편씩 읽도록 합니다.
-- 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
+- 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506). [승희](https://github.com/seunghee-ryu)
 
 <details>
 <summary>1주차</summary>
@@ -148,6 +158,7 @@ HTTP 웹 기본 지식 섹션 2~6
 
 - [ ] 하연
 - [ ] 희진
+- [ ] 승희
 
 </details>
 
@@ -162,6 +173,7 @@ HTTP 웹 기본 지식 섹션 2~6
 
 - [ ] 하연
 - [ ] 희진
+- [ ] 승희
 
 </details>
 
@@ -176,6 +188,7 @@ HTTP 웹 기본 지식 섹션 2~6
 
 - [ ] 하연
 - [ ] 희진
+- [ ] 승희
 
 </details>
 
@@ -187,6 +200,7 @@ HTTP 웹 기본 지식 섹션 2~6
 
 - [ ] 하연
 - [ ] 희진
+- [ ] 승희
 
 </details>
 
@@ -198,6 +212,7 @@ HTTP 웹 기본 지식 섹션 2~6
 
 - [ ] 하연
 - [ ] 희진
+- [ ] 승희
 
 </details>
 
@@ -209,6 +224,7 @@ HTTP 웹 기본 지식 섹션 2~6
 
 - [ ] 하연
 - [ ] 희진
+- [ ] 승희
 
 </details>
 
@@ -223,6 +239,7 @@ HTTP 웹 기본 지식 섹션 2~6
 
 - [ ] 하연
 - [ ] 희진
+- [ ] 승희
 
 </details>
 
@@ -234,6 +251,7 @@ HTTP 웹 기본 지식 섹션 2~6
 
 - [ ] 하연
 - [ ] 희진
+- [ ] 승희
 
 </details>
 
@@ -248,6 +266,7 @@ HTTP 웹 기본 지식 섹션 2~6
 
 - [ ] 하연
 - [ ] 희진
+- [ ] 승희
 
 </details>
 
@@ -255,6 +274,7 @@ HTTP 웹 기본 지식 섹션 2~6
 ## 🌈 코틀린
 
 - 고돈호의 [이것이 안드로이드다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237983907)를 읽습니다.
+- 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [승희](https://github.com/seunghee-ryu)
 
 
 ## 📕 개발글읽기
