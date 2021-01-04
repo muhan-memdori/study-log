@@ -57,7 +57,12 @@
 
 ## 🌿 스프링
 
-김영한의 [스프링 입문](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8#description)(무료), [스프링 핵심원리 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8), [모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)을 따라가면서 공부합니다.
+- 김영한의 스프링 강좌들을 따라가면서 공부합니다.
+  - [스프링 입문](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8#description)(무료)
+  - [스프링 핵심원리 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
+  - [모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [지연](https://github.com/jiyounyou)
 
 <details>
 <summary>1주차</summary>
@@ -126,6 +131,7 @@ HTTP 웹 기본 지식 섹션 2~6
     - [엄진영의 코딩스쿨](https://github.com/eomcs)
 - 하루에 수업 한 개씩 정리해서 블로그에 올립니다.
 - +a) 각 파트에 해당하는 기본서를 읽고 내용을 보충합니다.
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram)
 
 
 ## ✨ 자바스크립트
@@ -277,6 +283,7 @@ HTTP 웹 기본 지식 섹션 2~6
 - 하연: [깃허브](https://github.com/hayeon17kim), [블로그](https://hayeon17kim.github.io/)
 - 승희: [깃허브](https://github.com/seunghee-ryu), [블로그](https://seunghee-ryu.github.io/)
 - 아람: [깃허브](https://github.com/YuAram), [블로그](https://runaramrun.tistory.com/)
+- 지연: [깃허브](https://github.com/jiyounyou), [블로그](https://jiyounyou.github.io/)
 - 재현: [깃허브](https://github.com/jaehyunYi)
 - 희진: [깃허브](https://github.com/Hee-jin506), [블로그](https://eungeun506.tistory.com/)
 
@@ -289,6 +296,7 @@ HTTP 웹 기본 지식 섹션 2~6
 | 하연 |       |
 | 승희 |       |
 | 아람 |       |
+| 지연 |       |
 | 재현 |       |
 | 희진 |       |
 
