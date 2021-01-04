@@ -40,8 +40,6 @@
 - [ ] 하연
 - [ ] 희진
 - [X] [아람](https://github.com/YuAram/data-structure-algorithm/tree/master/src/main/java/com/aram/chap06)
-- [ ] 승희
-- [ ] 지연
 
 </details>
 
@@ -54,8 +52,6 @@
 - [ ] 하연
 - [ ] 희진
 - [ ] 아람
-- [ ] 승희
-- [ ] 지연
 
 </details>
 
