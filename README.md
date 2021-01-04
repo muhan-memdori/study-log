@@ -29,7 +29,7 @@
 ## 🧩 알고리즘
 - [Do it! 자료구조와 함께 배우는 알고리즘 입문](http://www.yes24.com/Product/Goods/60547893?OzSrank=3)을 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 요일 밤 12시까지 업데이트해주세요.
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [승희](https://github.com/seunghee-ryu)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu)
 <details>
 <summary>6주차</summary>
       
@@ -312,22 +312,17 @@ CHAPTER 4: 위젯과 리소스 다루기
 ## 📕 개발글읽기
 
 - 평일 매일 1개의 개발 관련 글을 읽고 정리합니다.
+- 일주일에 5개 분량은 채워주세요!
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
 - [이전 개발글읽기 기록 바로가기](https://github.com/muhan-memdori/study-log/blob/main/README-01.md#-%EA%B0%9C%EB%B0%9C%EA%B8%80%EC%9D%BD%EA%B8%B0)
 
-<details>
-<summary>7주차</summary>
-2021.01.04 ~ 2021.01.10
-      
-|      | 하연 | 희진 |
-| ---- | ---- | ---- |
-| 월   |      |   |
-| 화   |      |      |
-| 수   |      |      |
-| 목   |      |     |
-| 금   |      |     |
+## ✅ TODO
 
-</details>
+- 오늘 할 일을 다른 멤버들과 디스코드에 공유합니다. 
+- 참여 멤버: [하연](https://github.com/hayeon17kim), [아람](https://github.com/YuAram)
+- [이전 개발글읽기 기록 바로가기](https://github.com/muhan-memdori/study-log/blob/main/README-01.md#-%EA%B0%9C%EB%B0%9C%EA%B8%80%EC%9D%BD%EA%B8%B0)
+
+
 
 ## 🙋‍♀️ 멤버소개
 
