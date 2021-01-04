@@ -63,7 +63,7 @@
   - [스프링 핵심원리 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
   - [모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [지연](https://github.com/jiyounyou), [승희](https://github.com/seunghee-ryu)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [지연](https://github.com/jiyounyou), [승희](https://github.com/seunghee-ryu), [재현](https://github.com/jaehyunYi)
 
 <details>
 <summary>1주차</summary>
@@ -76,6 +76,7 @@
 - [ ] 아람
 - [ ] 지연
 - [ ] 승희
+- [ ] 재현
 
 </details>
 
@@ -104,6 +105,7 @@
 - [ ] 아람
 - [ ] 지연
 - [ ] 승희
+- [ ] 재현
 
 </details>
 
@@ -120,6 +122,7 @@ HTTP 웹 기본 지식 섹션 0~1
 - [ ] 아람
 - [ ] 지연
 - [ ] 승희
+- [ ] 재현
 
 </details>
 
@@ -133,6 +136,7 @@ HTTP 웹 기본 지식 섹션 2~6
 - [ ] 아람
 - [ ] 지연
 - [ ] 승희
+- [ ] 재현
 
 </details>
 
@@ -341,7 +345,7 @@ CHAPTER 4: 위젯과 리소스 다루기
 - 승희: [깃허브](https://github.com/seunghee-ryu), [블로그](https://seunghee-ryu.github.io/)
 - 아람: [깃허브](https://github.com/YuAram), [블로그](https://runaramrun.tistory.com/)
 - 지연: [깃허브](https://github.com/jiyounyou), [블로그](https://jiyounyou.github.io/)
-- 재현: [깃허브](https://github.com/jaehyunYi)
+- 재현: [깃허브](https://github.com/jaehyunYi), [블로그](https://jaehyunYi.github.io/)
 - 지은: [깃허브](https://github.com/j-jieun2)
 - 희진: [깃허브](https://github.com/Hee-jin506), [블로그](https://eungeun506.tistory.com/)
 
