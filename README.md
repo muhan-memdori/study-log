@@ -1,5 +1,5 @@
 <div align="center">
-      <h3>✏️</h3>
+      <h3>🔥</h3>
         <h1>study-log</h1>
   공부한 것을 기록합니다.
 </div>
@@ -24,7 +24,7 @@
 - 정해진 기간 안에 블로그 포스트 혹은 깃허브 마크다운 파일을 작성하고 메인 `README.md` 파일에 글 링크를 업데이트합니다.
 - 모든 업데이트 사항은 **직접 편집**합니다.
 - 해당 주에 작성하지 못한 경우 **벌금 천원이 적립**됩니다. 벌금은 매 달 마지막 주에 정산합니다.
-- 블로그에 올리기 애매한 정리글의 경우 study-log의 개인별 폴더에 업로드하여 그 링크를 인증하시면 됩니다.
+- 블로그에 올리기 애매한 정리글의 경우 study-log의 **개인별 폴더**에 업로드해주시면 됩니다.
 
 
 ## 🧩 알고리즘
@@ -142,7 +142,7 @@ HTTP 웹 기본 지식 섹션 2~6
     - [엄진영의 코딩스쿨](https://github.com/eomcs)
 - 하루에 수업 한 개씩 정리해서 블로그에 올립니다.
 - +a) 각 파트에 해당하는 기본서를 읽고 내용을 보충합니다.
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu)
 
 
 ## ✨ 자바스크립트
@@ -321,7 +321,7 @@ CHAPTER 4: 위젯과 리소스 다루기
 
 - 오늘 할 일을 다른 멤버들과 디스코드에 공유합니다. 
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [아람](https://github.com/YuAram)
-- [이전 개발글읽기 기록 바로가기](https://github.com/muhan-memdori/study-log/blob/main/README-01.md#-%EA%B0%9C%EB%B0%9C%EA%B8%80%EC%9D%BD%EA%B8%B0)
+- [이전 TODO 기록 바로가기](https://github.com/muhan-memdori/study-log/blob/main/TODO.md)
 
 
 
@@ -333,7 +333,9 @@ CHAPTER 4: 위젯과 리소스 다루기
 - 아람: [깃허브](https://github.com/YuAram), [블로그](https://runaramrun.tistory.com/)
 - 지연: [깃허브](https://github.com/jiyounyou), [블로그](https://jiyounyou.github.io/)
 - 재현: [깃허브](https://github.com/jaehyunYi)
+- 지은: [깃허브](https://github.com/j-jieun2)
 - 희진: [깃허브](https://github.com/Hee-jin506), [블로그](https://eungeun506.tistory.com/)
+
 
 
 
@@ -346,6 +348,7 @@ CHAPTER 4: 위젯과 리소스 다루기
 | 아람 |       |
 | 지연 |       |
 | 재현 |       |
+| 지은 |       |
 | 희진 |       |
 
 
