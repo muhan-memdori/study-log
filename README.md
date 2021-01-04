@@ -30,7 +30,7 @@
 ## 🧩 알고리즘(기존)
 - [Do it! 자료구조와 함께 배우는 알고리즘 입문](http://www.yes24.com/Product/Goods/60547893?OzSrank=3)을 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 요일 밤 12시까지 업데이트해주세요.
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
 <details>
 <summary>6주차</summary>
       
@@ -51,20 +51,21 @@
 - [ ] 태희
 - [ ] 하연
 - [ ] 희진
-- [ ] 아람
 
 </details>
 
 ## 🧩 알고리즘(신규)
 - [Do it! 자료구조와 함께 배우는 알고리즘 입문](http://www.yes24.com/Product/Goods/60547893?OzSrank=3)을 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 요일 밤 12시까지 업데이트해주세요.
-- 참여 멤버: [지연](https://github.com/jiyounyou)
+- 참여 멤버: [지연](https://github.com/jiyounyou), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu)
 <details>
 <summary>1주차</summary>
       
 1장: 기본 알고리즘
 
 - [ ] 지연
+- [ ] 아람
+- [ ] 승희
 
 </details>
 
@@ -74,6 +75,8 @@
 2장: 기본 자료구조
 
 - [ ] 지연
+- [ ] 아람
+- [ ] 승희
 
 </details>
 
@@ -83,6 +86,8 @@
 3장: 검색
 
 - [ ] 지연
+- [ ] 아람
+- [ ] 승희
 
 </details>
 
@@ -92,6 +97,8 @@
 4장: 스택과 큐
 
 - [ ] 지연
+- [ ] 아람
+- [ ] 승희
 
 </details>
 
@@ -101,6 +108,8 @@
 5장: 재귀 알고리즘
 
 - [ ] 지연
+- [ ] 아람
+- [ ] 승희
 
 </details>
 
@@ -110,6 +119,8 @@
 6장: 정렬 (198~241쪽: 버블정렬, 단순 선택 정렬, 단순 삽입 정렬, 셸정렬, 퀵정렬)
 
 - [ ] 지연
+- [ ] 아람
+- [ ] 승희
 
 </details>
 
@@ -119,6 +130,8 @@
 6장 (242~272쪽: 병합 정렬, 힙정렬, 도수 정렬) ~ 7장: 집합
 
 - [ ] 지연
+- [ ] 아람
+- [ ] 승희
 
 </details>
 
