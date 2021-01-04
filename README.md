@@ -1,5 +1,5 @@
 <div align="center">
-      <h3>✏️</h3>
+      <h3>🔥</h3>
         <h1>study-log</h1>
   공부한 것을 기록합니다.
 </div>
