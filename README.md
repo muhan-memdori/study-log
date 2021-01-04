@@ -275,8 +275,9 @@ HTTP 웹 기본 지식 섹션 2~6
 
 - 태희: [깃허브](https://github.com/TaeheeKim15), [블로그](https://taehee12.tistory.com/)
 - 하연: [깃허브](https://github.com/hayeon17kim), [블로그](https://hayeon17kim.github.io/)
-- 희진: [깃허브](https://github.com/Hee-jin506), [블로그](https://eungeun506.tistory.com/)
+- 승희: [깃허브](https://github.com/seunghee-ryu), [블로그](https://seunghee-ryu.github.io/)
 - 아람: [깃허브](https://github.com/YuAram), [블로그](https://runaramrun.tistory.com/)
+- 희진: [깃허브](https://github.com/Hee-jin506), [블로그](https://eungeun506.tistory.com/)
 
 
 
