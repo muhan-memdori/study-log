@@ -6,7 +6,7 @@
 
 
 ## 바로가기
-
+- [시즌1 활동 바로가기](https://github.com/muhan-memdori/study-log/blob/main/README-01.md)
 - [📌 기본규칙](#-기본규칙)
 - [🧩 알고리즘](#-알고리즘)
 - [🌿 스프링](#-스프링)
