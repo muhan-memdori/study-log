@@ -427,7 +427,7 @@ CHAPTER 4: 위젯과 리소스 다루기
 - 아람: [깃허브](https://github.com/YuAram), [블로그](https://runaramrun.tistory.com/)
 - 지연: [깃허브](https://github.com/jiyounyou), [블로그](https://jiyounyou.tistory.com/)
 - 재현: [깃허브](https://github.com/jaehyunYi), [블로그](https://jaehyunYi.github.io/)
-- 지은: [깃허브](https://github.com/j-jieun2)
+- 지은: [깃허브](https://github.com/j-jieun2), [블로그](https://velog.io/@jsje02)
 - 희진: [깃허브](https://github.com/Hee-jin506), [블로그](https://eungeun506.tistory.com/)
 
 
