@@ -57,7 +57,7 @@
 
 ## 🧩 알고리즘(신규)
 - [Do it! 자료구조와 함께 배우는 알고리즘 입문](http://www.yes24.com/Product/Goods/60547893?OzSrank=3)을 읽고 매주 1장씩 블로그에 정리합니다.
-- 블로그 링크는 요일 밤 12시까지 업데이트해주세요.
+- 블로그 링크는 일요일 밤 12시까지 업데이트해주세요.
 - 참여 멤버: [지연](https://github.com/jiyounyou), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu)
 <details>
 <summary>1주차</summary>
