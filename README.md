@@ -245,7 +245,7 @@ HTTP 웹 기본 지식 섹션 2~6
 
 - [ ] 하연
 - [ ] 희진
-- [ ] 승희
+- [ ] 승희 [01](https://seunghee-ryu.github.io/javascript/js2.1/) [02](https://seunghee-ryu.github.io/javascript/js2.2/) [03](https://seunghee-ryu.github.io/javascript/js.2.3/) [04](https://seunghee-ryu.github.io/javascript/js.2.4/) [05](https://seunghee-ryu.github.io/javascript/js2.5/) [06](https://seunghee-ryu.github.io/javascript/js2.6/) [07](https://seunghee-ryu.github.io/javascript/js2.7/) [08](https://seunghee-ryu.github.io/javascript/js2.8/) [09](https://seunghee-ryu.github.io/javascript/js2.9/) [10](https://seunghee-ryu.github.io/javascript/js2.10/)
 - [ ] 지연
 
 </details>
