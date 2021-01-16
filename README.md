@@ -64,7 +64,7 @@
 
 1장: 기본 알고리즘
 
-- [ ] 지연
+- [ ] [지연](https://jiyounyou.github.io/java/algorithm-01/)
 - [ ] 아람
 - [x] [승희](https://seunghee-ryu.github.io/javaalgorithm/JavaAlgorithm01/)
 
