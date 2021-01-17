@@ -152,7 +152,7 @@
 스프링 입문 섹션 0~5
 
 - [ ] 태희
-- [ ] 하연
+- [x] 하연 [01](https://hayeon17kim.github.io/spring/spring-basic-01) [02](https://hayeon17kim.github.io/spring/spring-basic-02) [03](https://hayeon17kim.github.io/spring/spring-basic-03) [04](https://hayeon17kim.github.io/spring/spring-basic-04) [05](https://hayeon17kim.github.io/spring/spring-basic-05)
 - [ ] 희진
 - [ ] 아람
 - [ ] 지연
