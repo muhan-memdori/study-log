@@ -159,7 +159,6 @@
 - [x] 승희 [01](https://seunghee-ryu.github.io/spring/spring01/) [02](https://seunghee-ryu.github.io/spring/spring02/) [03](https://seunghee-ryu.github.io/spring/spring03/) [04](https://seunghee-ryu.github.io/spring/spring04/) [05](https://seunghee-ryu.github.io/spring/spring05/)
 - [ ] 재현
 - [x] 지은 [01~05](https://velog.io/@jsje02/series/Spring)
-
 </details>
 
 <details>
