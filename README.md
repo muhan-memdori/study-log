@@ -243,7 +243,7 @@ HTTP 웹 기본 지식 섹션 2~6
 **자바스크립트 기본**
 2.1. Hello, world! ~ 2.10. if와 '?'를 사용한 조건 처리
 
-- [ ] 하연
+- [x] 하연 [01](https://hayeon17kim.github.io/javascript/modern-js-0201) [02](https://hayeon17kim.github.io/javascript/modern-js-0202) [03](https://hayeon17kim.github.io/javascript/modern-js-0203) [04](https://hayeon17kim.github.io/javascript/modern-js-0204) [05](https://hayeon17kim.github.io/javascript/modern-js-0205) [06](https://hayeon17kim.github.io/javascript/modern-js-0206) [07](https://hayeon17kim.github.io/javascript/modern-js-0207) [08](https://hayeon17kim.github.io/javascript/modern-js-0208) [09](https://hayeon17kim.github.io/javascript/modern-js-0209) [10](https://hayeon17kim.github.io/javascript/modern-js-0210)
 - [ ] 희진
 - [ ] 승희 [01](https://seunghee-ryu.github.io/javascript/js2.1/) [02](https://seunghee-ryu.github.io/javascript/js2.2/) [03](https://seunghee-ryu.github.io/javascript/js.2.3/) [04](https://seunghee-ryu.github.io/javascript/js.2.4/) [05](https://seunghee-ryu.github.io/javascript/js2.5/) [06](https://seunghee-ryu.github.io/javascript/js2.6/) [07](https://seunghee-ryu.github.io/javascript/js2.7/) [08](https://seunghee-ryu.github.io/javascript/js2.8/) [09](https://seunghee-ryu.github.io/javascript/js2.9/) [10](https://seunghee-ryu.github.io/javascript/js2.10/)
 - [ ] 지연
@@ -377,7 +377,7 @@ HTTP 웹 기본 지식 섹션 2~6
 
 CHAPTER 1: 코틀린 안드로이드 이해하기 ~ CHAPTER 2: 개발 도구 설치와 앱 실행하기 
 
-- [ ] 하연
+- [x] [하연](https://hayeon17kim.github.io/android/android-01)
 - [ ] 희진
 - [x] [승희](https://seunghee-ryu.github.io/android/Android01/)
 
