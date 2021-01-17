@@ -154,7 +154,7 @@
 - [ ] 태희
 - [x] 하연 [01](https://hayeon17kim.github.io/spring/spring-basic-01) [02](https://hayeon17kim.github.io/spring/spring-basic-02) [03](https://hayeon17kim.github.io/spring/spring-basic-03) [04](https://hayeon17kim.github.io/spring/spring-basic-04) [05](https://hayeon17kim.github.io/spring/spring-basic-05)
 - [ ] 희진
-- [ ] 아람
+- [ ] 아람 [01](https://runaramrun.tistory.com/entry/%EC%9D%B8%ED%94%84%EB%9F%B0%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%84%B9%EC%85%9801-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95) [02](https://runaramrun.tistory.com/entry/%EC%9D%B8%ED%94%84%EB%9F%B0%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%84%B9%EC%85%9802-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88)
 - [ ] 지연
 - [x] 승희 [01](https://seunghee-ryu.github.io/spring/spring01/) [02](https://seunghee-ryu.github.io/spring/spring02/) [03](https://seunghee-ryu.github.io/spring/spring03/) [04](https://seunghee-ryu.github.io/spring/spring04/) [05](https://seunghee-ryu.github.io/spring/spring05/)
 - [ ] 재현
