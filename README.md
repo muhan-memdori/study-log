@@ -379,7 +379,7 @@ CHAPTER 1: 코틀린 안드로이드 이해하기 ~ CHAPTER 2: 개발 도구 설
 
 - [ ] 하연
 - [ ] 희진
-- [ ] 승희
+- [x] [승희](https://seunghee-ryu.github.io/android/Android01/)
 
 </details>
 
