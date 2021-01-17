@@ -158,7 +158,7 @@
 - [ ] 지연
 - [x] 승희 [01](https://seunghee-ryu.github.io/spring/spring01/) [02](https://seunghee-ryu.github.io/spring/spring02/) [03](https://seunghee-ryu.github.io/spring/spring03/) [04](https://seunghee-ryu.github.io/spring/spring04/) [05](https://seunghee-ryu.github.io/spring/spring05/)
 - [ ] 재현
-- [ ] 지은
+- [x] 지은 [01~05](https://velog.io/@jsje02/series/Spring)
 
 </details>
 
@@ -247,6 +247,7 @@ HTTP 웹 기본 지식 섹션 2~6
 - [ ] 희진
 - [ ] 승희 [01](https://seunghee-ryu.github.io/javascript/js2.1/) [02](https://seunghee-ryu.github.io/javascript/js2.2/) [03](https://seunghee-ryu.github.io/javascript/js.2.3/) [04](https://seunghee-ryu.github.io/javascript/js.2.4/) [05](https://seunghee-ryu.github.io/javascript/js2.5/) [06](https://seunghee-ryu.github.io/javascript/js2.6/) [07](https://seunghee-ryu.github.io/javascript/js2.7/) [08](https://seunghee-ryu.github.io/javascript/js2.8/) [09](https://seunghee-ryu.github.io/javascript/js2.9/) [10](https://seunghee-ryu.github.io/javascript/js2.10/)
 - [ ] 지연
+- [x] 지은 [01~08](https://velog.io/@jsje02/series/JAVASCRIPT)
 
 </details>
 
