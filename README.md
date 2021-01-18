@@ -28,34 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/50407047/104146011-87d29e00-540c-11eb-8d5a-5863ec081e52.png)
 
-## 🧩 알고리즘(기존)
-- [Do it! 자료구조와 함께 배우는 알고리즘 입문](http://www.yes24.com/Product/Goods/60547893?OzSrank=3)을 읽고 매주 1장씩 블로그에 정리합니다.
-- 블로그 링크는 요일 밤 12시까지 업데이트해주세요.
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
-<details>
-<summary>6주차</summary>
-
-6장: 정렬 (198~241쪽: 버블정렬, 단순 선택 정렬, 단순 삽입 정렬, 셸정렬, 퀵정렬)
-
-- [ ] 태희
-- [ ] 하연
-- [ ] 희진
-- [X] [아람](https://github.com/YuAram/data-structure-algorithm/tree/master/src/main/java/com/aram/chap06)
-
-</details>
-
-<details>
-<summary>7주차</summary>
-
-6장 (242~272쪽: 병합 정렬, 힙정렬, 도수 정렬) ~ 7장: 집합
-
-- [ ] 태희
-- [ ] 하연
-- [ ] 희진
-
-</details>
-
-## 🧩 알고리즘(신규)
+## 🧩 알고리
 - [Do it! 자료구조와 함께 배우는 알고리즘 입문](http://www.yes24.com/Product/Goods/60547893?OzSrank=3)을 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 일요일 밤 12시까지 업데이트해주세요.
 - 참여 멤버: [지연](https://github.com/jiyounyou), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu)
