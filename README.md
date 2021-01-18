@@ -28,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/50407047/104146011-87d29e00-540c-11eb-8d5a-5863ec081e52.png)
 
-## 🧩 알고리
+## 🧩 알고리즘
 - [Do it! 자료구조와 함께 배우는 알고리즘 입문](http://www.yes24.com/Product/Goods/60547893?OzSrank=3)을 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 일요일 밤 12시까지 업데이트해주세요.
 - 참여 멤버: [지연](https://github.com/jiyounyou), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu)
