@@ -37,7 +37,7 @@
 
 1장: 기본 알고리즘
 
-- [ ] [지연](https://jiyounyou.github.io/java/algorithm-01/)
+- [x] [지연](https://jiyounyou.github.io/java/algorithm-01/)
 - [x] [아람](https://runaramrun.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%ED%95%A8%EA%BB%98%EB%B0%B0%EC%9A%B0%EB%8A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9E%85%EB%AC%B8-1%EC%9E%A5-%EA%B8%B0%EB%B3%B8%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [x] [승희](https://seunghee-ryu.github.io/javaalgorithm/JavaAlgorithm01/)
 
@@ -128,7 +128,7 @@
 - [x] 하연 [01](https://hayeon17kim.github.io/spring/spring-basic-01) [02](https://hayeon17kim.github.io/spring/spring-basic-02) [03](https://hayeon17kim.github.io/spring/spring-basic-03) [04](https://hayeon17kim.github.io/spring/spring-basic-04) [05](https://hayeon17kim.github.io/spring/spring-basic-05)
 - [X] 희진 [01](https://hee-jin506.github.io/spring/2021/01/04/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95.html) [02](https://hee-jin506.github.io/spring/2021/01/12/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-2.-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88.html) [03](https://hee-jin506.github.io/spring/2021/01/13/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-3.-%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC-%EC%98%88%EC%A0%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C.html) [04](https://hee-jin506.github.io/spring/2021/01/17/spring-4.html) [05](https://hee-jin506.github.io/spring/2021/01/17/spring-5.html)
 - [ ] 아람 [01](https://runaramrun.tistory.com/entry/%EC%9D%B8%ED%94%84%EB%9F%B0%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%84%B9%EC%85%9801-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95) [02](https://runaramrun.tistory.com/entry/%EC%9D%B8%ED%94%84%EB%9F%B0%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%84%B9%EC%85%9802-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88)
-- [ ] 지연
+- [x] 지연
 - [x] 승희 [01](https://seunghee-ryu.github.io/spring/spring01/) [02](https://seunghee-ryu.github.io/spring/spring02/) [03](https://seunghee-ryu.github.io/spring/spring03/) [04](https://seunghee-ryu.github.io/spring/spring04/) [05](https://seunghee-ryu.github.io/spring/spring05/)
 - [ ] 재현
 - [x] 지은 [01~05](https://velog.io/@jsje02/series/Spring)
@@ -218,7 +218,7 @@ HTTP 웹 기본 지식 섹션 2~6
 - [x] 하연 [01](https://hayeon17kim.github.io/javascript/modern-js-0201) [02](https://hayeon17kim.github.io/javascript/modern-js-0202) [03](https://hayeon17kim.github.io/javascript/modern-js-0203) [04](https://hayeon17kim.github.io/javascript/modern-js-0204) [05](https://hayeon17kim.github.io/javascript/modern-js-0205) [06](https://hayeon17kim.github.io/javascript/modern-js-0206) [07](https://hayeon17kim.github.io/javascript/modern-js-0207) [08](https://hayeon17kim.github.io/javascript/modern-js-0208) [09](https://hayeon17kim.github.io/javascript/modern-js-0209) [10](https://hayeon17kim.github.io/javascript/modern-js-0210)
 - [X] 희진 [01](https://hee-jin506.github.io/javascript/2021/01/05/%EB%AA%A8%EB%8D%98-JavaScript-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-2.1.-Hello,-World!.html) [02](https://hee-jin506.github.io/javascript/2021/01/05/%EB%AA%A8%EB%8D%98-JavaScript-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-2.2-%EC%BD%94%EB%93%9C-%EA%B5%AC%EC%A1%B0.html) [03](https://hee-jin506.github.io/javascript/2021/01/12/%EB%AA%A8%EB%8D%98-JavaScript-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-2.3-%EC%97%84%EA%B2%A9-%EB%AA%A8%EB%93%9C.html) [04](https://hee-jin506.github.io/javascript/2021/01/12/%EB%AA%A8%EB%8D%98-JavaScript-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-2.4-%EB%B3%80%EC%88%98%EC%99%80-%EC%83%81%EC%88%98.html) [05](https://hee-jin506.github.io/javascript/2021/01/13/%EB%AA%A8%EB%8D%98-JavaScript-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-2.5-%EC%9E%90%EB%A3%8C%ED%98%95.html) [06](https://hee-jin506.github.io/javascript/2021/01/13/%EB%AA%A8%EB%8D%98-JavaScript-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-2.6-alert,-prompt,-confirm%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9.html) [07](https://hee-jin506.github.io/javascript/2021/01/14/moderjs-2-7.html) [08](https://hee-jin506.github.io/javascript/2021/01/15/modernjs-2-8.html) [09](https://hee-jin506.github.io/javascript/2021/01/17/modernjs-2-9.html) [10](https://hee-jin506.github.io/javascript/2021/01/17/modernjs-2-10.html)
 - [ ] 승희 [01](https://seunghee-ryu.github.io/javascript/js2.1/) [02](https://seunghee-ryu.github.io/javascript/js2.2/) [03](https://seunghee-ryu.github.io/javascript/js.2.3/) [04](https://seunghee-ryu.github.io/javascript/js.2.4/) [05](https://seunghee-ryu.github.io/javascript/js2.5/) [06](https://seunghee-ryu.github.io/javascript/js2.6/) [07](https://seunghee-ryu.github.io/javascript/js2.7/) [08](https://seunghee-ryu.github.io/javascript/js2.8/) [09](https://seunghee-ryu.github.io/javascript/js2.9/) [10](https://seunghee-ryu.github.io/javascript/js2.10/)
-- [ ] 지연
+- [x] 지연 [01](https://jiyounyou.github.io/javascript/modernJs-2.1/) [02](https://jiyounyou.github.io/javascript/modernJs-2.2/) [03](https://jiyounyou.github.io/javascript/modernJs-2.3/) [04](https://jiyounyou.github.io/javascript/modernJs-2.4/) [05](https://jiyounyou.github.io/javascript/modernJs-2.5/) [06](https://jiyounyou.github.io/javascript/modernJs-2.6/) [07](https://jiyounyou.github.io/javascript/modernJs-2.7/) [08](https://jiyounyou.github.io/javascript/modernJs-2.8/) [09](https://jiyounyou.github.io/javascript/modernJs-2.9/) [10](https://jiyounyou.github.io/javascript/modernJs-2.10/)
 - [x] 지은 [01~10](https://velog.io/@jsje02/series/JAVASCRIPT)
 
 </details>
@@ -235,7 +235,7 @@ HTTP 웹 기본 지식 섹션 2~6
 - [ ] 하연
 - [ ] 희진
 - [ ] 승희
-- [ ] 지연
+- [ ] 지연 [11](https://jiyounyou.github.io/javascript/modernJs-2.11/) [12](https://jiyounyou.github.io/javascript/modernJs-2.12/)
 
 </details>
 
