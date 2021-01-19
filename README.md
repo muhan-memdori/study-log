@@ -117,7 +117,7 @@
   - [스프링 핵심원리 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
   - [모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [지연](https://github.com/jiyounyou), [승희](https://github.com/seunghee-ryu), [재현](https://github.com/jaehyunYi), [지은](https://github.com/j-jieun2)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu), [재현](https://github.com/jaehyunYi), [지은](https://github.com/j-jieun2)
 
 <details>
 <summary>1주차</summary>
@@ -128,7 +128,6 @@
 - [x] 하연 [01](https://hayeon17kim.github.io/spring/spring-basic-01) [02](https://hayeon17kim.github.io/spring/spring-basic-02) [03](https://hayeon17kim.github.io/spring/spring-basic-03) [04](https://hayeon17kim.github.io/spring/spring-basic-04) [05](https://hayeon17kim.github.io/spring/spring-basic-05)
 - [X] 희진 [01](https://hee-jin506.github.io/spring/2021/01/04/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95.html) [02](https://hee-jin506.github.io/spring/2021/01/12/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-2.-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88.html) [03](https://hee-jin506.github.io/spring/2021/01/13/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-3.-%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC-%EC%98%88%EC%A0%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C.html) [04](https://hee-jin506.github.io/spring/2021/01/17/spring-4.html) [05](https://hee-jin506.github.io/spring/2021/01/17/spring-5.html)
 - [ ] 아람 [01](https://runaramrun.tistory.com/entry/%EC%9D%B8%ED%94%84%EB%9F%B0%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%84%B9%EC%85%9801-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95) [02](https://runaramrun.tistory.com/entry/%EC%9D%B8%ED%94%84%EB%9F%B0%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%84%B9%EC%85%9802-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88)
-- [x] 지연
 - [x] 승희 [01](https://seunghee-ryu.github.io/spring/spring01/) [02](https://seunghee-ryu.github.io/spring/spring02/) [03](https://seunghee-ryu.github.io/spring/spring03/) [04](https://seunghee-ryu.github.io/spring/spring04/) [05](https://seunghee-ryu.github.io/spring/spring05/)
 - [ ] 재현
 - [x] 지은 [01~05](https://velog.io/@jsje02/series/Spring)
@@ -144,7 +143,6 @@
 - [ ] 하연
 - [ ] 희진
 - [ ] 아람
-- [ ] 지연
 - [ ] 승희
 
 </details>
@@ -157,7 +155,6 @@
 - [ ] 하연
 - [ ] 희진
 - [ ] 아람
-- [ ] 지연
 - [ ] 승희
 - [ ] 재현
 
@@ -174,7 +171,6 @@ HTTP 웹 기본 지식 섹션 0~1
 - [ ] 하연
 - [ ] 희진
 - [ ] 아람
-- [ ] 지연
 - [ ] 승희
 - [ ] 재현
 
@@ -188,7 +184,6 @@ HTTP 웹 기본 지식 섹션 2~6
 - [ ] 하연
 - [ ] 희진
 - [ ] 아람
-- [ ] 지연
 - [ ] 승희
 - [ ] 재현
 
