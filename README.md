@@ -48,7 +48,7 @@
 
 2장: 기본 자료구조
 
-- [ ] 지연
+- [x] [지연](https://jiyounyou.github.io/java/algorithm-02/)
 - [ ] 아람
 - [ ] 승희
 
@@ -59,7 +59,7 @@
 
 3장: 검색
 
-- [ ] 지연
+- [ ] [지연](https://jiyounyou.github.io/java/algorithm-03/)
 - [ ] 아람
 - [ ] 승희
 
