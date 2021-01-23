@@ -143,7 +143,7 @@
 - [ ] 희진
 - [ ] 아람
 - [ ] 승희
-
+- [x] 지은 [06~07](https://velog.io/@jsje02/series/Spring)
 </details>
 
 <details>
