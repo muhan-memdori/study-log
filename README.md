@@ -229,6 +229,7 @@
 - [ ] 희진
 - [x] 승희 [2.9 ~ 3.2](https://seunghee-ryu.github.io/categories/#javascript)
 - [ ] 지연 [11](https://jiyounyou.github.io/javascript/modernJs-2.11/) [12](https://jiyounyou.github.io/javascript/modernJs-2.12/)
+- [x] 지은 [2.9 ~ 3.2](https://velog.io/@jsje02/series/JAVASCRIPT)
 
 </details>
 
