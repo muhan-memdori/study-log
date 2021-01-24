@@ -139,7 +139,7 @@
 스프링 입문 섹션 6~7
 
 - [ ] 태희
-- [ ] 하연
+- [x] 하연 [06](https://hayeon17kim.github.io/spring/spring-basic-06) [07](https://hayeon17kim.github.io/spring/spring-basic-07)
 - [ ] 희진
 - [ ] 아람
 - [ ] 승희
@@ -225,7 +225,7 @@
 **코드품질**
 3.1. Chrome으로 디버깅하기 ~ 3.2. 코딩 스타일
 
-- [ ] 하연
+- [x] 하연 [0209](https://hayeon17kim.github.io/javascript/modern-js-0209) [0210](https://hayeon17kim.github.io/javascript/modern-js-0210) [0211](https://hayeon17kim.github.io/javascript/modern-js-0211) [0212](https://hayeon17kim.github.io/javascript/modern-js-0212) [0213](https://hayeon17kim.github.io/javascript/modern-js-0213) [0214](https://hayeon17kim.github.io/javascript/modern-js-0214) [0215](https://hayeon17kim.github.io/javascript/modern-js-0215) [0216](https://hayeon17kim.github.io/javascript/modern-js-0216) [0217](https://hayeon17kim.github.io/javascript/modern-js-0217) [0218](https://hayeon17kim.github.io/javascript/modern-js-0218) [0301](https://hayeon17kim.github.io/javascript/modern-js-0301) [0302](https://hayeon17kim.github.io/javascript/modern-js-0302) 
 - [ ] 희진
 - [ ] 승희
 - [ ] 지연 [11](https://jiyounyou.github.io/javascript/modernJs-2.11/) [12](https://jiyounyou.github.io/javascript/modernJs-2.12/)
