@@ -50,7 +50,7 @@
 
 - [x] [지연](https://jiyounyou.github.io/java/algorithm-02/)
 - [ ] 아람
-- [ ] 승희
+- [x] [승희](https://seunghee-ryu.github.io/javaalgorithm/JavaAlgorithm02/)
 
 </details>
 
@@ -139,10 +139,10 @@
 스프링 입문 섹션 6~7
 
 - [ ] 태희
-- [x] 하연 [06](https://hayeon17kim.github.io/spring/spring-basic-06) [07](https://hayeon17kim.github.io/spring/spring-basic-07)
+- [ ] 하연
 - [ ] 희진
 - [ ] 아람
-- [ ] 승희
+- [x] 승희 [06, 07](https://seunghee-ryu.github.io/categories/#spring)
 - [x] 지은 [06~07](https://velog.io/@jsje02/series/Spring)
 </details>
 
@@ -225,9 +225,9 @@
 **코드품질**
 3.1. Chrome으로 디버깅하기 ~ 3.2. 코딩 스타일
 
-- [x] 하연 [0209](https://hayeon17kim.github.io/javascript/modern-js-0209) [0210](https://hayeon17kim.github.io/javascript/modern-js-0210) [0211](https://hayeon17kim.github.io/javascript/modern-js-0211) [0212](https://hayeon17kim.github.io/javascript/modern-js-0212) [0213](https://hayeon17kim.github.io/javascript/modern-js-0213) [0214](https://hayeon17kim.github.io/javascript/modern-js-0214) [0215](https://hayeon17kim.github.io/javascript/modern-js-0215) [0216](https://hayeon17kim.github.io/javascript/modern-js-0216) [0217](https://hayeon17kim.github.io/javascript/modern-js-0217) [0218](https://hayeon17kim.github.io/javascript/modern-js-0218) [0301](https://hayeon17kim.github.io/javascript/modern-js-0301) [0302](https://hayeon17kim.github.io/javascript/modern-js-0302) 
+- [ ] 하연
 - [ ] 희진
-- [ ] 승희
+- [x] 승희 [2.9 ~ 3.2](https://seunghee-ryu.github.io/categories/#javascript)
 - [ ] 지연 [11](https://jiyounyou.github.io/javascript/modernJs-2.11/) [12](https://jiyounyou.github.io/javascript/modernJs-2.12/)
 
 </details>
@@ -356,7 +356,7 @@ CHAPTER 3: 코틀린 사용을 위한 기본 문법
 
 - [ ] 하연
 - [ ] 희진
-- [ ] 승희
+- [x] [승희](https://seunghee-ryu.github.io/android/Android03/)
 
 </details>
 
