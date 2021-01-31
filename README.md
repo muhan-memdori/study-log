@@ -193,7 +193,7 @@
     - [엄진영의 코딩스쿨](https://github.com/eomcs)
 - 하루에 수업 한 개씩 정리해서 블로그에 올립니다.
 - +a) 각 파트에 해당하는 기본서를 읽고 내용을 보충합니다.
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [승희](https://github.com/seunghee-ryu/seunghee-ryu.github.io/tree/master/_posts/ReviewJAVA)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [희진](https://github.com/Hee-jin506), [승희](https://github.com/seunghee-ryu/seunghee-ryu.github.io/tree/master/_posts/ReviewJAVA)
 
 
 ## ✨ 자바스크립트
