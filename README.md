@@ -225,7 +225,7 @@
 **코드품질**
 3.1. Chrome으로 디버깅하기 ~ 3.2. 코딩 스타일
 
-- [ ] 하연
+- [x] 하연 [2.9](https://hayeon17kim.github.io/javascript/modern-js-0209) [2.10](https://hayeon17kim.github.io/javascript/modern-js-0210) [2.11](https://hayeon17kim.github.io/javascript/modern-js-0211) [2.12](https://hayeon17kim.github.io/javascript/modern-js-0212) [2.13](https://hayeon17kim.github.io/javascript/modern-js-0213) [2.14](https://hayeon17kim.github.io/javascript/modern-js-0214) [2.15](https://hayeon17kim.github.io/javascript/modern-js-0215) [2.16](https://hayeon17kim.github.io/javascript/modern-js-0216) [2.17](https://hayeon17kim.github.io/javascript/modern-js-0217) [2.18](https://hayeon17kim.github.io/javascript/modern-js-0218) [3.1](https://hayeon17kim.github.io/javascript/modern-js-0301) [3.2](https://hayeon17kim.github.io/javascript/modern-js-0302)
 - [ ] 희진
 - [x] 승희 [2.9 ~ 3.2](https://seunghee-ryu.github.io/categories/#javascript)
 - [ ] 지연 [11](https://jiyounyou.github.io/javascript/modernJs-2.11/) [12](https://jiyounyou.github.io/javascript/modernJs-2.12/)
@@ -242,7 +242,7 @@
 **객체:기본**
 4.1. 객체 ~ 4.3. 가비지 컬렉션
 
-- [ ] 하연
+- [x] 하연 [3.3](https://hayeon17kim.github.io/javascript/modern-js-0301) [3.4](https://hayeon17kim.github.io/javascript/modern-js-0304) [3.5](https://hayeon17kim.github.io/javascript/modern-js-0305) [3.6](https://hayeon17kim.github.io/javascript/modern-js-0306) [4.1](https://hayeon17kim.github.io/javascript/modern-js-0401) [4.2](https://hayeon17kim.github.io/javascript/modern-js-0402) [4.3](https://hayeon17kim.github.io/javascript/modern-js-0403)
 - [ ] 희진
 - [ ] 승희
 - [ ] 지연
