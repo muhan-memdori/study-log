@@ -226,7 +226,7 @@
 3.1. Chrome으로 디버깅하기 ~ 3.2. 코딩 스타일
 
 - [x] 하연 [2.9](https://hayeon17kim.github.io/javascript/modern-js-0209) [2.10](https://hayeon17kim.github.io/javascript/modern-js-0210) [2.11](https://hayeon17kim.github.io/javascript/modern-js-0211) [2.12](https://hayeon17kim.github.io/javascript/modern-js-0212) [2.13](https://hayeon17kim.github.io/javascript/modern-js-0213) [2.14](https://hayeon17kim.github.io/javascript/modern-js-0214) [2.15](https://hayeon17kim.github.io/javascript/modern-js-0215) [2.16](https://hayeon17kim.github.io/javascript/modern-js-0216) [2.17](https://hayeon17kim.github.io/javascript/modern-js-0217) [2.18](https://hayeon17kim.github.io/javascript/modern-js-0218) [3.1](https://hayeon17kim.github.io/javascript/modern-js-0301) [3.2](https://hayeon17kim.github.io/javascript/modern-js-0302)
-- [ ] 희진
+- [X] 희진 [2.9](https://hee-jin506.github.io/javascript/2021/01/17/modernjs-2-9.html) [2.10](https://hee-jin506.github.io/javascript/2021/01/17/modernjs-2-10.html) [2.11](https://hee-jin506.github.io/javascript/2020/01/19/modernjs-2-11.html) [2.12](https://hee-jin506.github.io/javascript/2021/01/19/modernjs-2-12.html) [2.13](https://hee-jin506.github.io/javascript/2021/01/19/2-13.html) [2.14](https://hee-jin506.github.io/javascript/2021/01/19/modernjs-2-14.html) [2.15](https://hee-jin506.github.io/javascript/2021/01/21/modernjs-2-15.html) [2.16](https://hee-jin506.github.io/javascript/2021/01/22/modernjs-2-16.html) [2.17](https://hee-jin506.github.io/javascript/2021/01/22/modernjs-2-17.html) [2.18](https://hee-jin506.github.io/javascript/2021/01/22/modernjs-2-18.html) [3.1](https://hee-jin506.github.io/javascript/2021/01/23/modernjs-3-1.html) [3.2](https://hee-jin506.github.io/javascript/2021/01/23/modernjs-3-2.html)
 - [x] 승희 [2.9 ~ 3.2](https://seunghee-ryu.github.io/categories/#javascript)
 - [ ] 지연 [11](https://jiyounyou.github.io/javascript/modernJs-2.11/) [12](https://jiyounyou.github.io/javascript/modernJs-2.12/)
 - [x] 지은 [2.9 ~ 3.2](https://velog.io/@jsje02/series/JAVASCRIPT)
@@ -411,7 +411,7 @@ CHAPTER 4: 위젯과 리소스 다루기
 | 지연 | 1,000 |
 | 재현 |       |
 | 지은 |       |
-| 희진 |       |
+| 희진 |  5,000 |
 
 
 
