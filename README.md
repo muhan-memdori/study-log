@@ -392,7 +392,7 @@ CHAPTER 4: 위젯과 리소스 다루기
 - 태희: [깃허브](https://github.com/TaeheeKim15), [블로그](https://taehee12.tistory.com/)
 - 하연: [깃허브](https://github.com/hayeon17kim), [블로그](https://hayeon17kim.github.io/)
 - 승희: [깃허브](https://github.com/seunghee-ryu), [블로그](https://seunghee-ryu.github.io/)
-- 아람: [깃허브](https://github.com/YuAram), [블로그](https://runaramrun.tistory.com/)
+- 아람: [깃허브](https://github.com/YuAram), [블로그](https://runaramrun.tistory.com/) (휴식중)
 - 지연: [깃허브](https://github.com/jiyounyou), [블로그](https://jiyounyou.github.io/)
 - 재현: [깃허브](https://github.com/jaehyunYi), [블로그](https://jaehyunYi.github.io/)
 - 지은: [깃허브](https://github.com/j-jieun2), [블로그](https://velog.io/@jsje02)
@@ -407,7 +407,7 @@ CHAPTER 4: 위젯과 리소스 다루기
 | 태희 |     |
 | 하연 | 2,000 |
 | 승희 |       |
-| 아람 | 4,000 |
+| 아람 | 4,000 |(휴식중)
 | 지연 | 1,000 |
 | 재현 |       |
 | 지은 |       |
