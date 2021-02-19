@@ -246,7 +246,7 @@
 
 </details>
 
-### 희진([깃허브](https://github.com/Hee-jin506), [블로그](https://eungeun506.tistory.com/))
+### 희진([깃허브](https://github.com/Hee-jin506), [블로그](https://eungeun506.tistory.com/ , https://hee-jin506.github.io/) / 휴식중)
 
 <details>
 <summary>1주차</summary>
