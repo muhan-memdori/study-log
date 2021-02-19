@@ -46,83 +46,6 @@
 - [Do it! 자료구조와 함께 배우는 알고리즘 입문](http://www.yes24.com/Product/Goods/60547893?OzSrank=3)을 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 일요일 밤 12시까지 업데이트해주세요.
 - 참여 멤버: [지연](https://github.com/jiyounyou), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu)
-<details>
-<summary>1주차</summary>
-
-1장: 기본 알고리즘
-
-- [x] [지연](https://jiyounyou.github.io/java/algorithm-01/)
-- [x] [아람](https://runaramrun.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%ED%95%A8%EA%BB%98%EB%B0%B0%EC%9A%B0%EB%8A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9E%85%EB%AC%B8-1%EC%9E%A5-%EA%B8%B0%EB%B3%B8%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-- [x] [승희](https://seunghee-ryu.github.io/javaalgorithm/JavaAlgorithm01/)
-
-</details>
-
-<details>
-<summary>2주차</summary>
-
-2장: 기본 자료구조
-
-- [x] [지연](https://jiyounyou.github.io/java/algorithm-02/)
-- [ ] 아람
-- [x] [승희](https://seunghee-ryu.github.io/javaalgorithm/JavaAlgorithm02/)
-
-</details>
-
-<details>
-<summary>3주차</summary>
-
-3장: 검색
-
-- [ ] [지연](https://jiyounyou.github.io/java/algorithm-03/)
-- [ ] 아람
-- [ ] 승희
-
-</details>
-
-<details>
-<summary>4주차</summary>
-
-4장: 스택과 큐
-
-- [ ] 지연
-- [ ] 아람
-- [ ] 승희
-
-</details>
-
-<details>
-<summary>5주차</summary>
-
-5장: 재귀 알고리즘
-
-- [ ] 지연
-- [ ] 아람
-- [ ] 승희
-
-</details>
-
-<details>
-<summary>6주차</summary>
-
-6장: 정렬 (198~241쪽: 버블정렬, 단순 선택 정렬, 단순 삽입 정렬, 셸정렬, 퀵정렬)
-
-- [ ] 지연
-- [ ] 아람
-- [ ] 승희
-
-</details>
-
-<details>
-<summary>7주차</summary>
-
-6장 (242~272쪽: 병합 정렬, 힙정렬, 도수 정렬) ~ 7장: 집합
-
-- [ ] 지연
-- [ ] 아람
-- [ ] 승희
-
-</details>
-
 
 ## 🌿 스프링
 
@@ -133,74 +56,6 @@
 
 - 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu), [재현](https://github.com/jaehyunYi), [지은](https://github.com/j-jieun2)
 
-<details>
-<summary>1주차</summary>
-
-스프링 입문 섹션 0~5
-
-- [ ] 태희
-- [x] 하연 [01](https://hayeon17kim.github.io/spring/spring-basic-01) [02](https://hayeon17kim.github.io/spring/spring-basic-02) [03](https://hayeon17kim.github.io/spring/spring-basic-03) [04](https://hayeon17kim.github.io/spring/spring-basic-04) [05](https://hayeon17kim.github.io/spring/spring-basic-05)
-- [X] 희진 [01](https://hee-jin506.github.io/spring/2021/01/04/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95.html) [02](https://hee-jin506.github.io/spring/2021/01/12/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-2.-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88.html) [03](https://hee-jin506.github.io/spring/2021/01/13/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-3.-%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC-%EC%98%88%EC%A0%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C.html) [04](https://hee-jin506.github.io/spring/2021/01/17/spring-4.html) [05](https://hee-jin506.github.io/spring/2021/01/17/spring-5.html)
-- [ ] 아람 [01](https://runaramrun.tistory.com/entry/%EC%9D%B8%ED%94%84%EB%9F%B0%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%84%B9%EC%85%9801-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95) [02](https://runaramrun.tistory.com/entry/%EC%9D%B8%ED%94%84%EB%9F%B0%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%84%B9%EC%85%9802-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88)
-- [x] 승희 [01](https://seunghee-ryu.github.io/spring/spring01/) [02](https://seunghee-ryu.github.io/spring/spring02/) [03](https://seunghee-ryu.github.io/spring/spring03/) [04](https://seunghee-ryu.github.io/spring/spring04/) [05](https://seunghee-ryu.github.io/spring/spring05/)
-- [ ] 재현
-- [x] 지은 [01~05](https://velog.io/@jsje02/series/Spring)
-</details>
-
-<details>
-<summary>2주차</summary>
-
-스프링 입문 섹션 6~7
-
-- [ ] 태희
-- [ ] 하연
-- [ ] 희진
-- [ ] 아람
-- [x] 승희 [06, 07](https://seunghee-ryu.github.io/categories/#spring)
-- [x] 지은 [06~07](https://velog.io/@jsje02/series/Spring)
-</details>
-
-<details>
-<summary>3주차</summary>
-
-스프링 핵심원리 섹션 0~2
-- [ ] 태희
-- [ ] 하연
-- [ ] 희진
-- [ ] 아람
-- [ ] 승희
-- [ ] 재현
-
-</details>
-
-<details>
-<summary>4회차</summary>
-
-스프링 핵심원리 섹션 3~4
-
-- [ ] 태희
-- [ ] 하연
-- [ ] 희진
-- [ ] 아람
-- [ ] 승희
-- [ ] 재현
-
-</details>
-
-<details>
-<summary>5회차</summary>
-
-스프링 핵심원리 섹션 5~6
-
-- [ ] 태희
-- [ ] 하연
-- [ ] 희진
-- [ ] 아람
-- [ ] 승희
-- [ ] 재현
-
-</details>
-
 ## 👨‍🏫 eomcs
 - 엄진영 강사님의 수업을 복습합니다.
     - [자바 171기 저장소](https://github.com/eomjinyoung/bitcamp-20200713)
@@ -209,182 +64,16 @@
 - +a) 각 파트에 해당하는 기본서를 읽고 내용을 보충합니다.
 - 참여 멤버: [태희](https://github.com/TaeheeKim15), [희진](https://github.com/Hee-jin506), [승희](https://github.com/seunghee-ryu/seunghee-ryu.github.io/tree/master/_posts/ReviewJAVA)
 
-
 ## ✨ 자바스크립트
 - [모던 자바스크립트 튜토리얼](https://ko.javascript.info/)을 읽습니다.
 - 평일 하루에 한 편씩 읽고 블로그에 정리한 후 인증합니다.
     - 단, 챕터 2는 하루에 2편씩 읽도록 합니다.
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506). [승희](https://github.com/seunghee-ryu), [지연](https://github.com/jiyounyou), [지은](https://github.com/j-jieun2)
 
-<details>
-<summary>1주차</summary>
-
-**자바스크립트 기본**
-2.1. Hello, world! ~ 2.10. if와 '?'를 사용한 조건 처리
-
-- [x] 하연 [01](https://hayeon17kim.github.io/javascript/modern-js-0201) [02](https://hayeon17kim.github.io/javascript/modern-js-0202) [03](https://hayeon17kim.github.io/javascript/modern-js-0203) [04](https://hayeon17kim.github.io/javascript/modern-js-0204) [05](https://hayeon17kim.github.io/javascript/modern-js-0205) [06](https://hayeon17kim.github.io/javascript/modern-js-0206) [07](https://hayeon17kim.github.io/javascript/modern-js-0207) [08](https://hayeon17kim.github.io/javascript/modern-js-0208) [09](https://hayeon17kim.github.io/javascript/modern-js-0209) [10](https://hayeon17kim.github.io/javascript/modern-js-0210)
-- [X] 희진 [01](https://hee-jin506.github.io/javascript/2021/01/05/%EB%AA%A8%EB%8D%98-JavaScript-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-2.1.-Hello,-World!.html) [02](https://hee-jin506.github.io/javascript/2021/01/05/%EB%AA%A8%EB%8D%98-JavaScript-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-2.2-%EC%BD%94%EB%93%9C-%EA%B5%AC%EC%A1%B0.html) [03](https://hee-jin506.github.io/javascript/2021/01/12/%EB%AA%A8%EB%8D%98-JavaScript-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-2.3-%EC%97%84%EA%B2%A9-%EB%AA%A8%EB%93%9C.html) [04](https://hee-jin506.github.io/javascript/2021/01/12/%EB%AA%A8%EB%8D%98-JavaScript-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-2.4-%EB%B3%80%EC%88%98%EC%99%80-%EC%83%81%EC%88%98.html) [05](https://hee-jin506.github.io/javascript/2021/01/13/%EB%AA%A8%EB%8D%98-JavaScript-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-2.5-%EC%9E%90%EB%A3%8C%ED%98%95.html) [06](https://hee-jin506.github.io/javascript/2021/01/13/%EB%AA%A8%EB%8D%98-JavaScript-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-2.6-alert,-prompt,-confirm%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9.html) [07](https://hee-jin506.github.io/javascript/2021/01/14/moderjs-2-7.html) [08](https://hee-jin506.github.io/javascript/2021/01/15/modernjs-2-8.html) [09](https://hee-jin506.github.io/javascript/2021/01/17/modernjs-2-9.html) [10](https://hee-jin506.github.io/javascript/2021/01/17/modernjs-2-10.html)
-- [ ] 승희 [01](https://seunghee-ryu.github.io/javascript/js2.1/) [02](https://seunghee-ryu.github.io/javascript/js2.2/) [03](https://seunghee-ryu.github.io/javascript/js.2.3/) [04](https://seunghee-ryu.github.io/javascript/js.2.4/) [05](https://seunghee-ryu.github.io/javascript/js2.5/) [06](https://seunghee-ryu.github.io/javascript/js2.6/) [07](https://seunghee-ryu.github.io/javascript/js2.7/) [08](https://seunghee-ryu.github.io/javascript/js2.8/) [09](https://seunghee-ryu.github.io/javascript/js2.9/) [10](https://seunghee-ryu.github.io/javascript/js2.10/)
-- [x] 지연 [01](https://jiyounyou.github.io/javascript/modernJs-2.1/) [02](https://jiyounyou.github.io/javascript/modernJs-2.2/) [03](https://jiyounyou.github.io/javascript/modernJs-2.3/) [04](https://jiyounyou.github.io/javascript/modernJs-2.4/) [05](https://jiyounyou.github.io/javascript/modernJs-2.5/) [06](https://jiyounyou.github.io/javascript/modernJs-2.6/) [07](https://jiyounyou.github.io/javascript/modernJs-2.7/) [08](https://jiyounyou.github.io/javascript/modernJs-2.8/) [09](https://jiyounyou.github.io/javascript/modernJs-2.9/) [10](https://jiyounyou.github.io/javascript/modernJs-2.10/)
-- [x] 지은 [01~10](https://velog.io/@jsje02/series/JAVASCRIPT)
-
-</details>
-
-<details>
-<summary>2주차</summary>
-
-**자바스크립트 기본**
-2.9. 논리 연산자 ~ 2.18. if와 '?'를 사용한 조건 처리
-
-**코드품질**
-3.1. Chrome으로 디버깅하기 ~ 3.2. 코딩 스타일
-
-- [x] 하연 [2.9](https://hayeon17kim.github.io/javascript/modern-js-0209) [2.10](https://hayeon17kim.github.io/javascript/modern-js-0210) [2.11](https://hayeon17kim.github.io/javascript/modern-js-0211) [2.12](https://hayeon17kim.github.io/javascript/modern-js-0212) [2.13](https://hayeon17kim.github.io/javascript/modern-js-0213) [2.14](https://hayeon17kim.github.io/javascript/modern-js-0214) [2.15](https://hayeon17kim.github.io/javascript/modern-js-0215) [2.16](https://hayeon17kim.github.io/javascript/modern-js-0216) [2.17](https://hayeon17kim.github.io/javascript/modern-js-0217) [2.18](https://hayeon17kim.github.io/javascript/modern-js-0218) [3.1](https://hayeon17kim.github.io/javascript/modern-js-0301) [3.2](https://hayeon17kim.github.io/javascript/modern-js-0302)
-- [X] 희진 [2.9](https://hee-jin506.github.io/javascript/2021/01/17/modernjs-2-9.html) [2.10](https://hee-jin506.github.io/javascript/2021/01/17/modernjs-2-10.html) [2.11](https://hee-jin506.github.io/javascript/2020/01/19/modernjs-2-11.html) [2.12](https://hee-jin506.github.io/javascript/2021/01/19/modernjs-2-12.html) [2.13](https://hee-jin506.github.io/javascript/2021/01/19/2-13.html) [2.14](https://hee-jin506.github.io/javascript/2021/01/19/modernjs-2-14.html) [2.15](https://hee-jin506.github.io/javascript/2021/01/21/modernjs-2-15.html) [2.16](https://hee-jin506.github.io/javascript/2021/01/22/modernjs-2-16.html) [2.17](https://hee-jin506.github.io/javascript/2021/01/22/modernjs-2-17.html) [2.18](https://hee-jin506.github.io/javascript/2021/01/22/modernjs-2-18.html) [3.1](https://hee-jin506.github.io/javascript/2021/01/23/modernjs-3-1.html) [3.2](https://hee-jin506.github.io/javascript/2021/01/23/modernjs-3-2.html)
-- [x] 승희 [2.9 ~ 3.2](https://seunghee-ryu.github.io/categories/#javascript)
-- [ ] 지연 [11](https://jiyounyou.github.io/javascript/modernJs-2.11/) [12](https://jiyounyou.github.io/javascript/modernJs-2.12/)
-- [x] 지은 [2.9 ~ 3.2](https://velog.io/@jsje02/series/JAVASCRIPT)
-
-</details>
-
-<details>
-<summary>3주차</summary>
-
-**코드품질**
-3.3. 주석 ~ 3.6. 폴리필
-
-**객체:기본**
-4.1. 객체 ~ 4.3. 가비지 컬렉션
-
-- [x] 하연 [3.3](https://hayeon17kim.github.io/javascript/modern-js-0301) [3.4](https://hayeon17kim.github.io/javascript/modern-js-0304) [3.5](https://hayeon17kim.github.io/javascript/modern-js-0305) [3.6](https://hayeon17kim.github.io/javascript/modern-js-0306) [4.1](https://hayeon17kim.github.io/javascript/modern-js-0401) [4.2](https://hayeon17kim.github.io/javascript/modern-js-0402) [4.3](https://hayeon17kim.github.io/javascript/modern-js-0403)
-- [ ] 희진
-- [ ] 승희
-- [ ] 지연
-
-</details>
-
-<details>
-<summary>4주차</summary>
-
-**객체:기본**
-4.4. 메서드와 `this` ~ 4.8. 객체를 원시형으로 변환하기
-
-- [ ] 하연
-- [ ] 희진
-- [ ] 승희
-- [ ] 지연
-
-</details>
-
-<details>
-<summary>5주차</summary>
-
-**자료구조와 자료형**
-5.1 원시값의 메서드 ~ 5.5 배열과 메서드
-
-- [ ] 하연
-- [ ] 희진
-- [ ] 승희
-- [ ] 지연
-
-</details>
-
-<details>
-<summary>6주차</summary>
-
-**자료구조와 자료형**
-5.6 iterable 객체 ~ 5.10 구조 분해 할당
-
-- [ ] 하연
-- [ ] 희진
-- [ ] 승희
-- [ ] 지연
-
-</details>
-
-<details>
-<summary>7주차</summary>
-
-**자료구조와 자료형**
-5.11 Date 객체와 날짜 ~ 5.12 JSON과 메서드
-
-**함수 심화학습**
-6.1 재귀와 스택 ~ 6.3 전역 객체
-
-- [ ] 하연
-- [ ] 희진
-- [ ] 승희
-- [ ] 지연
-
-</details>
-
-<details>
-<summary>8주차</summary>
-
-**함수 심화학습**
-6.4 오래된 `var` ~ 6.8. `setTimeout`과 `setInterval`을 이용한 호출 스케줄링
-
-- [ ] 하연
-- [ ] 희진
-- [ ] 승희
-- [ ] 지연
-
-</details>
-
-<details>
-<summary>9주차</summary>
-
-**함수 심화학습**
-6.9 `call/apply`와 데코레이터, 포워딩 ~ 6.11. 화살표 함수 다시 살펴보기
-
-**객체 프로퍼티 설정**
-7.1 프로퍼티 플래그와 설명자 ~ 7.2. 프로퍼티 `getter`와 `setter`
-
-- [ ] 하연
-- [ ] 희진
-- [ ] 승희
-- [ ] 지연
-
-</details>
-
-
 ## 🌈 코틀린
 
 - 고돈호의 [이것이 안드로이드다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237983907)를 읽습니다.
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [승희](https://github.com/seunghee-ryu)
-
-<details>
-<summary>1주차</summary>
-
-CHAPTER 1: 코틀린 안드로이드 이해하기 ~ CHAPTER 2: 개발 도구 설치와 앱 실행하기 
-
-- [x] [하연](https://hayeon17kim.github.io/android/android-01)
-- [X] [희진](https://hee-jin506.github.io/android%20&%20kotlin/2021/01/17/this-is-android-1.html)
-- [x] [승희](https://seunghee-ryu.github.io/android/Android01/)
-
-</details>
-
-<details>
-<summary>2주차</summary>
-
-CHAPTER 3: 코틀린 사용을 위한 기본 문법
-
-- [ ] 하연
-- [ ] 희진
-- [x] [승희](https://seunghee-ryu.github.io/android/Android03/)
-
-</details>
-
-<details>
-<summary>3주차</summary>
-
-CHAPTER 4: 위젯과 리소스 다루기
-
-- [ ] 하연
-- [ ] 희진
-- [ ] 승희
-
-</details>
 
 ## 📕 개발글읽기
 
@@ -399,16 +88,15 @@ CHAPTER 4: 위젯과 리소스 다루기
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [아람](https://github.com/YuAram)
 - [이전 TODO 기록 바로가기](https://github.com/muhan-memdori/study-log/blob/main/TODO.md)
 
-
-
 ## 🙋‍♀️ 멤버소개
 
 ### 태희([깃허브](https://github.com/TaeheeKim15), [블로그](https://taehee12.tistory.com/) / 휴식중) 
 
 <details>
 <summary>1주차</summary>
+      
 - [ ] 스프링
-- [ ] eomcs
+
 </details>
 
 ### 하연([깃허브](https://github.com/hayeon17kim), [블로그](https://hayeon17kim.github.io/))
@@ -477,8 +165,8 @@ CHAPTER 4: 위젯과 리소스 다루기
 <details>
 <summary>1주차</summary>
       
-- [ ] [알고리즘](https://runaramrun.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%ED%95%A8%EA%BB%98%EB%B0%B0%EC%9A%B0%EB%8A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9E%85%EB%AC%B8-1%EC%9E%A5-%EA%B8%B0%EB%B3%B8%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-- [ ] 스프링 [01](https://runaramrun.tistory.com/entry/%EC%9D%B8%ED%94%84%EB%9F%B0%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%84%B9%EC%85%9801-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95) [02](https://runaramrun.tistory.com/entry/%EC%9D%B8%ED%94%84%EB%9F%B0%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%84%B9%EC%85%9802-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88)
+- [X] [알고리즘](https://runaramrun.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%ED%95%A8%EA%BB%98%EB%B0%B0%EC%9A%B0%EB%8A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9E%85%EB%AC%B8-1%EC%9E%A5-%EA%B8%B0%EB%B3%B8%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [X] 스프링 [01](https://runaramrun.tistory.com/entry/%EC%9D%B8%ED%94%84%EB%9F%B0%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%84%B9%EC%85%9801-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95) [02](https://runaramrun.tistory.com/entry/%EC%9D%B8%ED%94%84%EB%9F%B0%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%84%B9%EC%85%9802-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88)
 
 </details>
 
