@@ -91,9 +91,8 @@
 ## 🙋‍♀️ 멤버소개
 
 ### 태희
-- [깃허브](https://github.com/TaeheeKim15)
-- [블로그](https://taehee12.tistory.com/)
-- 휴식중
+> [깃허브](https://github.com/TaeheeKim15) / [블로그](https://taehee12.tistory.com/)
+> 휴식중
 
 <details>
 <summary>1주차</summary>
@@ -103,8 +102,7 @@
 </details>
 
 ### 하연
-- [깃허브](https://github.com/hayeon17kim)
-- [블로그](https://hayeon17kim.github.io/)
+> [깃허브](https://github.com/hayeon17kim) / [블로그](https://hayeon17kim.github.io/)
 
 <details>
 <summary>1주차</summary>
@@ -134,8 +132,7 @@
 </details>
 
 ### 승희
-- [깃허브](https://github.com/seunghee-ryu)
-- [블로그](https://seunghee-ryu.github.io/)
+> [깃허브](https://github.com/seunghee-ryu) / [블로그](https://seunghee-ryu.github.io/)
 
 <details>
 <summary>1주차</summary>
@@ -168,9 +165,8 @@
 </details>
 
 ### 아람
-- [깃허브](https://github.com/YuAram)
-- [블로그](https://runaramrun.tistory.com/)
-- 휴식중
+> [깃허브](https://github.com/YuAram) / [블로그](https://runaramrun.tistory.com/)
+> 휴식중
 
 <details>
 <summary>1주차</summary>
@@ -189,8 +185,7 @@
 </details>
 
 ### 지연
-- [깃허브](https://github.com/jiyounyou)
-- [블로그](https://jiyounyou.github.io/)
+> [깃허브](https://github.com/jiyounyou) / [블로그](https://jiyounyou.github.io/)
 
 <details>
 <summary>1주차</summary>
@@ -225,8 +220,7 @@
 </details>
 
 ### 재현
-- [깃허브](https://github.com/jaehyunYi)
-- [블로그](https://jaehyunYi.github.io/)
+> [깃허브](https://github.com/jaehyunYi) / [블로그](https://jaehyunYi.github.io/)
 
 <details>
 <summary>1주차</summary>
@@ -236,8 +230,7 @@
 </details>
 
 ### 지은
-- [깃허브](https://github.com/j-jieun2)
-- [블로그](https://velog.io/@jsje02)
+> [깃허브](https://github.com/j-jieun2) / [블로그](https://velog.io/@jsje02)
 
 <details>
 <summary>1주차</summary>
@@ -263,10 +256,8 @@
 </details>
 
 ### 희진
-- [깃허브](https://github.com/Hee-jin506)
-- [티스토리 블로그](https://eungeun506.tistory.com/)
-- [깃 블로그](https://hee-jin506.github.io/)
-- 휴식중
+> [깃허브](https://github.com/Hee-jin506) / [티스토리 블로그](https://eungeun506.tistory.com/) / [깃 블로그](https://hee-jin506.github.io/)
+> 휴식중
 
 <details>
 <summary>1주차</summary>
