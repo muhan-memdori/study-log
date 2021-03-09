@@ -62,13 +62,13 @@
     - [엄진영의 코딩스쿨](https://github.com/eomcs)
 - 하루에 수업 한 개씩 정리해서 블로그에 올립니다.
 - +a) 각 파트에 해당하는 기본서를 읽고 내용을 보충합니다.
-- 참여 멤버: [태희](https://github.com/TaeheeKim15), [희진](https://github.com/Hee-jin506), [승희](https://github.com/seunghee-ryu/seunghee-ryu.github.io/tree/master/_posts/ReviewJAVA)
+- 참여 멤버: [태희](https://github.com/TaeheeKim15), [승희](https://github.com/seunghee-ryu/seunghee-ryu.github.io/tree/master/_posts/ReviewJAVA)
 
 ## ✨ 자바스크립트
 - [모던 자바스크립트 튜토리얼](https://ko.javascript.info/)을 읽습니다.
 - 평일 하루에 한 편씩 읽고 블로그에 정리한 후 인증합니다.
     - 단, 챕터 2는 하루에 2편씩 읽도록 합니다.
-- 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506). [승희](https://github.com/seunghee-ryu), [지연](https://github.com/jiyounyou), [지은](https://github.com/j-jieun2)
+- 참여 멤버: [하연](https://github.com/hayeon17kim), [승희](https://github.com/seunghee-ryu), [지연](https://github.com/jiyounyou), [지은](https://github.com/j-jieun2)
 
 ## 🌈 코틀린
 
@@ -79,7 +79,7 @@
 
 - 평일 매일 1개의 개발 관련 글을 읽고 정리합니다.
 - 일주일에 5개 분량은 채워주세요!
-- 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506)
+- 참여 멤버: [하연](https://github.com/hayeon17kim)
 - [이전 개발글읽기 기록 바로가기](https://github.com/muhan-memdori/study-log/blob/main/README-01.md#-%EA%B0%9C%EB%B0%9C%EA%B8%80%EC%9D%BD%EA%B8%B0)
 
 ## ✅ TODO
@@ -281,7 +281,6 @@
 <summary>3주차</summary>
       
 - [ ] 스프링
-- [ ] 자바스크립트
 - [ ] 코틀린
 
 </details>
