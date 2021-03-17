@@ -55,6 +55,7 @@
   - [모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 
 - 참여 멤버: [태희](https://github.com/TaeheeKim15), [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu), [재현](https://github.com/jaehyunYi), [지은](https://github.com/j-jieun2)
+- 희진 : 블로그 정리 생략, 강의 수강 인증
 
 ## 👨‍🏫 eomcs
 - 엄진영 강사님의 수업을 복습합니다.
@@ -74,6 +75,7 @@
 
 - 고돈호의 [이것이 안드로이드다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237983907)를 읽습니다.
 - 참여 멤버: [하연](https://github.com/hayeon17kim), [희진](https://github.com/Hee-jin506), [승희](https://github.com/seunghee-ryu)
+- 희진 : 블로그 정리 생략, 깃허브 프로젝트 인증
 
 ## 📕 개발글읽기
 
@@ -257,7 +259,8 @@
 
 ### 희진
 > [깃허브](https://github.com/Hee-jin506) / [티스토리 블로그](https://eungeun506.tistory.com/) / [깃 블로그](https://hee-jin506.github.io/)
-> 휴식중
+> 스프링 : 블로그 정리 생략, 강의 수강 인증
+> 코틀린 : 블로그 정리 생략, 깃허브 프로젝트 인증
 
 <details>
 <summary>1주차</summary>
