@@ -135,10 +135,8 @@
 
 <details>
 <summary>4주차</summary>
-      
 - [ ] 스프링
-- [ ] 자바스크립트
-- [ ] 코틀린
+- [X] 자바스크립트 [4.3 ~ 4.7](https://hayeon17kim.github.io/tags/modernjs/)
 
 </details>
 
@@ -147,7 +145,6 @@
       
 - [ ] 스프링
 - [ ] 자바스크립트
-- [ ] 코틀린
 
 </details>
 
