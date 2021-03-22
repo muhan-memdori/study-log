@@ -106,7 +106,7 @@
 ### 하연
 > [깃허브](https://github.com/hayeon17kim) / [블로그](https://hayeon17kim.github.io/)
 
-참여중인 스터디: 개발글읽기, 자바스크립트, 
+참여중인 스터디: 개발글읽기, 자바스크립트, 개발글읽기
 
 <details>
 <summary>1주차</summary>
