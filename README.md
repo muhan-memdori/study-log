@@ -133,6 +133,24 @@
 
 </details>
 
+<details>
+<summary>4주차</summary>
+      
+- [ ] 스프링
+- [ ] 자바스크립트
+- [ ] 코틀린
+
+</details>
+
+<details>
+<summary>5주차</summary>
+      
+- [ ] 스프링
+- [ ] 자바스크립트
+- [ ] 코틀린
+
+</details>
+
 ### 승희
 > [깃허브](https://github.com/seunghee-ryu) / [블로그](https://seunghee-ryu.github.io/)
 
@@ -283,6 +301,14 @@
 <details>
 <summary>3주차</summary>
       
+- [X] 스프링
+- [ ] 코틀린
+
+</details>
+
+<details>
+<summary>4주차</summary>
+      
 - [ ] 스프링
 - [ ] 코틀린
 
@@ -295,7 +321,7 @@
 | 이름 |   벌금   |
 | ---- | -------- |
 | 태희 |     |
-| 하연 | 2,000 |
+| 하연 | 5,000 |
 | 승희 |       |
 | 아람 | 4,000 |(휴식중)
 | 지연 | 1,000 |
