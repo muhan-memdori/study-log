@@ -45,7 +45,7 @@
 ## 🧩 알고리즘
 - [Do it! 자료구조와 함께 배우는 알고리즘 입문](http://www.yes24.com/Product/Goods/60547893?OzSrank=3)을 읽고 매주 1장씩 블로그에 정리합니다.
 - 블로그 링크는 일요일 밤 12시까지 업데이트해주세요.
-- 참여 멤버: [지연](https://github.com/jiyounyou), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu)
+- 참여 멤버: [지연](https://github.com/jiyoun-yoo), [아람](https://github.com/YuAram), [승희](https://github.com/seunghee-ryu)
 
 ## 🌿 스프링
 
@@ -69,7 +69,7 @@
 - [모던 자바스크립트 튜토리얼](https://ko.javascript.info/)을 읽습니다.
 - 평일 하루에 한 편씩 읽고 블로그에 정리한 후 인증합니다.
     - 단, 챕터 2는 하루에 2편씩 읽도록 합니다.
-- 참여 멤버: [하연](https://github.com/hayeon17kim), [승희](https://github.com/seunghee-ryu), [지연](https://github.com/jiyounyou), [지은](https://github.com/j-jieun2)
+- 참여 멤버: [하연](https://github.com/hayeon17kim), [승희](https://github.com/seunghee-ryu), [지연](https://github.com/jiyoun-yoo), [지은](https://github.com/j-jieun2)
 
 ## 🌈 코틀린
 
@@ -205,28 +205,28 @@
 </details>
 
 ### 지연
-> [깃허브](https://github.com/jiyounyou) / [블로그](https://jiyounyou.github.io/)
+> [깃허브](https://github.com/jiyoun-yoo) / [블로그](https://jiyoun-yoo.github.io/)
 
 <details>
 <summary>1주차</summary>
       
-- [X] [알고리즘](https://jiyounyou.github.io/java/algorithm-01/)
-- [X] 자바스크립트 [01](https://jiyounyou.github.io/javascript/modernJs-2.1/) [02](https://jiyounyou.github.io/javascript/modernJs-2.2/) [03](https://jiyounyou.github.io/javascript/modernJs-2.3/) [04](https://jiyounyou.github.io/javascript/modernJs-2.4/) [05](https://jiyounyou.github.io/javascript/modernJs-2.5/) [06](https://jiyounyou.github.io/javascript/modernJs-2.6/) [07](https://jiyounyou.github.io/javascript/modernJs-2.7/) [08](https://jiyounyou.github.io/javascript/modernJs-2.8/) [09](https://jiyounyou.github.io/javascript/modernJs-2.9/) [10](https://jiyounyou.github.io/javascript/modernJs-2.10/)
+- [X] [알고리즘](https://jiyoun-yoo.github.io/java/algorithm-01/)
+- [X] 자바스크립트 [01](https://jiyoun-yoo.github.io/javascript/modernJs-2.1/) [02](https://jiyoun-yoo.github.io/javascript/modernJs-2.2/) [03](https://jiyoun-yoo.github.io/javascript/modernJs-2.3/) [04](https://jiyoun-yoo.github.io/javascript/modernJs-2.4/) [05](https://jiyoun-yoo.github.io/javascript/modernJs-2.5/) [06](https://jiyoun-yoo.github.io/javascript/modernJs-2.6/) [07](https://jiyoun-yoo.github.io/javascript/modernJs-2.7/) [08](https://jiyoun-yoo.github.io/javascript/modernJs-2.8/) [09](https://jiyoun-yoo.github.io/javascript/modernJs-2.9/) [10](https://jiyoun-yoo.github.io/javascript/modernJs-2.10/)
 
 </details>
 
 <details>
 <summary>2주차</summary>
       
-- [X] [알고리즘](https://jiyounyou.github.io/java/algorithm-02/)
-- [ ] 자바스크립트 [11](https://jiyounyou.github.io/javascript/modernJs-2.11/) [12](https://jiyounyou.github.io/javascript/modernJs-2.12/)
+- [X] [알고리즘](https://jiyoun-yoo.github.io/java/algorithm-02/)
+- [ ] 자바스크립트 [11](https://jiyoun-yoo.github.io/javascript/modernJs-2.11/) [12](https://jiyoun-yoo.github.io/javascript/modernJs-2.12/)
 
 </details>
 
 <details>
 <summary>3주차</summary>
       
-- [X] [알고리즘](https://jiyounyou.github.io/java/algorithm-03/)
+- [X] [알고리즘](https://jiyoun-yoo.github.io/java/algorithm-03/)
 - [ ] 자바스크립트
 
 </details>
